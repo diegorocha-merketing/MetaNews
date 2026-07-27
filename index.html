@@ -317,6 +317,18 @@
     border-radius: 3px;
   }
 
+  .src-link{
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    color: var(--text-muted);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: -4px;
+  }
+  .src-link:hover{ color: var(--gold); text-decoration: underline; }
+
   /* ---------- Noticias en vivo ---------- */
   .news-list{
     display:flex;
@@ -504,6 +516,7 @@
         <h3>${esc(it.title)}</h3>
         <p>${esc(it.text)}</p>
         <div class="stat">↳ ${esc(it.num)}</div>
+        ${it.url ? `<a class="src-link" href="${esc(it.url)}" target="_blank" rel="noopener">Fuente: ${esc(it.fuente || 'ver más')} ↗</a>` : ''}
       </article>
     `).join('');
   }
