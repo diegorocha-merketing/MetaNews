@@ -1,64 +1,64 @@
 {
-  "actualizado": "2026-07-22 21:46 UTC",
+  "actualizado": "2026-07-27 02:08 UTC",
   "ticker": [
-    "<b>85%</b> de las personas ve video sin sonido",
     "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
-    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
+    "El primer banner de internet (1994) tuvo un <b>78% de clics</b>",
+    "Advantage+ mejora el ROAS hasta un <b>41%</b>",
     "<b>11.8M</b> anunciantes activos compiten hoy en Meta Ads",
-    "<b>3.580M</b> de personas usan una app de Meta cada día",
+    "<b>85%</b> de las personas ve video sin sonido",
     "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
-    "El algoritmo ahora predice conversiones, no solo clics",
-    "Advantage+ mejora el ROAS hasta un <b>41%</b>"
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
+    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007"
   ],
   "cifras": [
     {
-      "num": "+33%",
-      "title": "Gana más mostrando el mismo anuncio",
-      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez."
-    },
-    {
-      "num": "3.58B",
-      "title": "3.580 millones de personas al día",
-      "text": "Ese es el número de personas que, en promedio, usan a diario alguna app de la familia Meta: Facebook, Instagram, WhatsApp y Messenger."
-    },
-    {
-      "num": "11.8M",
-      "title": "11,8 millones de marcas compiten por tu atención",
-      "text": "Ese es el número estimado de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta, según benchmarks de industria de 2026."
+      "num": "↑ video",
+      "title": "El video sigue ganando terreno",
+      "text": "Los formatos de video como Reels e historias concentran una porción creciente de la inversión publicitaria dentro de Meta, según reportes de industria de 2026."
     },
     {
       "num": "60/40",
       "title": "Facebook factura más, Instagram enamora más",
       "text": "Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante. Aun así, más marketers planean subir su inversión en Instagram este año."
+    },
+    {
+      "num": "$240B",
+      "title": "Meta apunta a 240.000 millones de dólares en 2026",
+      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025."
+    },
+    {
+      "num": "+33%",
+      "title": "Gana más mostrando el mismo anuncio",
+      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez."
     }
   ],
   "historia": [
     {
-      "num": "$5 ≈ 1.000",
-      "title": "Con 5 dólares llegabas a mil personas",
-      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas."
-    },
-    {
-      "num": "2012",
-      "title": "Nacen los Públicos Personalizados",
-      "text": "En 2012 Facebook lanzó Custom Audiences, la función que permitió a las marcas subir sus propias bases de datos de clientes para encontrarlos en la plataforma."
-    },
-    {
-      "num": "2007–2009",
-      "title": "Beacon: el experimento que casi hunde la confianza",
-      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras la polémica."
+      "num": "2004 → hoy",
+      "title": "De banners universitarios a un imperio publicitario",
+      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo."
     },
     {
       "num": "78% CTR",
       "title": "El primer banner de la historia tuvo un CTR del 78%",
       "text": "En 1994, AT&T pagó por el primer banner clicable de internet, publicado en HotWired.com — una cifra hoy prácticamente imposible."
+    },
+    {
+      "num": "2004",
+      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
+      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales."
+    },
+    {
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas."
     }
   ],
   "algoritmo": [
     {
-      "num": "85%",
-      "title": "8 de cada 10 personas ven video sin sonido",
-      "text": "Por eso los anuncios que mejor funcionan dependen de subtítulos y un gancho visual en los primeros segundos, no del audio."
+      "num": "IA generativa",
+      "title": "El algoritmo también genera los anuncios",
+      "text": "Las herramientas de generación de imagen y texto integradas en Meta Ads permiten crear variaciones de un mismo anuncio automáticamente."
     },
     {
       "num": "Advantage+",
@@ -66,21 +66,21 @@
       "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta el diseño de sus anuncios a los sistemas automatizados de Meta."
     },
     {
-      "num": "Views",
-      "title": "Dos métricas se volvieron una sola",
-      "text": "En 2026 la plataforma unificó 'impresiones' y 'reproducciones de video' en un único indicador llamado Views."
+      "num": "+40% CPM",
+      "title": "Dejó de mirar clics para predecir el futuro",
+      "text": "Desde marzo de 2026, el sistema de Meta ya no optimiza solo por clics: intenta predecir qué usuarios convertirán más adelante. Cuentas con pocos eventos de conversión pueden pagar hasta 40% más."
     }
   ],
   "curiosidades": [
     {
-      "num": "1994",
-      "title": "Todo empezó con un banner",
-      "text": "El primer anuncio digital de la historia se publicó en 1994, tres años antes de que naciera el concepto moderno de red social."
-    },
-    {
       "num": "+41% ROAS",
       "title": "Las campañas automáticas mejoraron el retorno 41%",
       "text": "Los anunciantes que usan Advantage+ reportan hasta 41% más retorno sobre la inversión y 17% menos costo de adquisición de clientes."
+    },
+    {
+      "num": "$125–145B",
+      "title": "Invierte en IA más que el PIB de países enteros",
+      "text": "Meta destinó entre 125.000 y 145.000 millones de dólares a infraestructura de inteligencia artificial en 2026."
     },
     {
       "num": "∞ variantes",
@@ -89,6 +89,27 @@
     }
   ],
   "memes": [
+    {
+      "top": "Día 1 del mes: el CPM despierta",
+      "emoji": "☕",
+      "badge": "PRESUPUESTO",
+      "bottom": "Y decide subir \"porque sí\"",
+      "art": "c"
+    },
+    {
+      "top": "Meta lanza una actualización sin avisar",
+      "emoji": "🌀",
+      "badge": "LUNES 8:00 AM",
+      "bottom": "Todo el equipo de Ads, a la vez",
+      "art": "a"
+    },
+    {
+      "top": "Yo subiendo el presupuesto $10 al día",
+      "emoji": "📈",
+      "badge": "CPM +37%",
+      "bottom": "El CPM: \"gracias por el aumento\"",
+      "art": "a"
+    },
     {
       "top": "El cliente: \"¿por qué el anuncio no vende?\"",
       "emoji": "🧠",
@@ -109,28 +130,33 @@
       "badge": "DUPLICAR",
       "bottom": "Lo duplicas 6 veces antes de dormir",
       "art": "c"
-    },
-    {
-      "top": "Meta lanza una actualización sin avisar",
-      "emoji": "🌀",
-      "badge": "LUNES 8:00 AM",
-      "bottom": "Todo el equipo de Ads, a la vez",
-      "art": "a"
-    },
-    {
-      "top": "Día 1 del mes: el CPM despierta",
-      "emoji": "☕",
-      "badge": "PRESUPUESTO",
-      "bottom": "Y decide subir \"porque sí\"",
-      "art": "c"
-    },
-    {
-      "top": "Yo subiendo el presupuesto $10 al día",
-      "emoji": "📈",
-      "badge": "CPM +37%",
-      "bottom": "El CPM: \"gracias por el aumento\"",
-      "art": "a"
     }
   ],
-  "noticias": []
+  "noticias": [
+    {
+      "titulo": "Acciones de Lightspeed suben por integración con Meta Ads - Investing.com México",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGpIZGFKaE10dDhuVDZXQW9DeDBrNDY0UHVtU0VNckc4WkJqOGtrN2NIMktVN05MWjhiRjFXRnh2UmFyX002cTZDcGtHTW8xcEFBREJlbDY3UTJ6RFA1eDAxcTQwS2h5dTJYM2RZUXpCN1NpVEVycjNrWUx1bU1fUGJvZ2ZXMF9OQ1UyOUJBRDRhRFE5OF9Ka3hxcW1CMFA4SWd2dXhIMHRUa1JiQjcwM0JPNldPQVJSZlE?oc=5",
+      "fuente": "Investing.com México"
+    },
+    {
+      "titulo": "Tendencias en Meta Ads 2026: qué debe dominar tu agencia - Cyberclick",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1VvYWtqbVlqX3JzQkFQWW1lRExsbk1MTmpKSkFoUlFHX0s4SUV4RmhDX2pOY3J5U0daSy1vWkt0QXdzQ3hON21BbTUtOXlUTHFPLVV0SWF3cWNhZ0VqNG1yNGlfMU84SGtpUERTaHZMeWpmWTZHZzdJQ3lHSUt1bW9FQlpNNG5yNTNvb094YXplWmFMSUHSAaYBQVVfeXFMT3pnRFlXc0RwS0dhRXl6NzhVQ0xUam84TnVyaUhtQ01QWmlrVHFLY0RES1g4eHY2aExRV0xHcmhxMGZBazlDeG9MOWQ4T1pEdDhIaXAtNkRNQjYwdmRnbUFyQzZjNHpvX1pVRHlQbVBhWDQ1NDZzbl9BN1dmM09TWFNiMUNYQlJ5R0tHUkVoVUZMcVlIbFotdTMwN1l4N2NxR1BoZG5FUQ?oc=5",
+      "fuente": "Cyberclick"
+    },
+    {
+      "titulo": "Simplificando la medición de anuncios para un mundo “social-first” - Meta Store",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2pEcTJrQ2x3TkI0QmNKaURxSkVlUjhGV2dDTDZJTUZ4bjF5QnhheFdaZ3NXVUVYZ3hLdU83cVQ4Vk9jSXV6bmx1a053RzlaZUZkUzZ6VUlxZ3k4NVE0TmNrb2tNYUVJeFVxYnczN3pXUEpwSWszQVNnb19HNGJ6dTNqZmxaTUljOHpNMDBpeC01RmI3d1lCOHhaVGp4NDVuczJwUWkyVdIBrAFBVV95cUxQRDFCcnFEWjRQdVN2NnROZVd2TjljUHN3cXdqS3Z5cGJ6RnFoV041aXI3VlpFTWVRSnlEZG11bEk4UUhBQnpKejNGVUJibGJ5VGxNQ2dYVjFqbGJjNDF1YXZWeHVndlhVbXhDWUU5LXV6WnNYajRPMmt4WGFtbG1nbGctSjFCQkx0TXZ1QnE1RXBQY2VSR09VV1d6dVpNWTVBT21YQUF3OVVmenZv?oc=5",
+      "fuente": "Meta Store"
+    },
+    {
+      "titulo": "340 anuncios pagados en Meta amplificaron narrativas para asociar a Iván Cepeda con las FARC - ColombiaCheck",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGRnc0ctUVdBSVIycFR0THhPbU84LTdFOW5ZNUVSUzZWajEzUDFLNE5aRXNLUWprTjRuQkRfVktlRl9BWklHMC1kSS1jbVEwRUFwYU9YdnFjS0VzWHpESC0taDNoWllDVXlXNmRSRkVabkRtY3pXYWMyVHRyWk9JT1NObnhSN2p4OUVwYk9UUFJ6ZzJhenJUTUNFSUxLaUYzY3ZfUGZHVDRLUk9zQ3ltOVktQnItQ3RfSmlyWENwdVk?oc=5",
+      "fuente": "ColombiaCheck"
+    },
+    {
+      "titulo": "Meta lanza herramientas de imagen con IA más inteligentes para anunciantes. - ALM Corp",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXdaeDlpYjFSLXF3TTk0dS05U0pDNExhWnBTRWc1YjVUMWQzMm8xU1VUNXRoSlVFME5TeEhyRUpuT1FLeUdyVE5zS1B1YWlNNkpuSGFtamtVeWxHSWRlaVVPMVZTMGhDU2JFWnpHUTBqc29YbHNhX19lTEdOM1lBU0xaWkstUElZYUgyaUJ6Vmtkb0U?oc=5",
+      "fuente": "ALM Corp"
+    }
+  ]
 }
