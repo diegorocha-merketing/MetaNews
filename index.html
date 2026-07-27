@@ -317,6 +317,50 @@
     border-radius: 3px;
   }
 
+  /* ---------- Noticias en vivo ---------- */
+  .news-list{
+    display:flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .news-item{
+    text-decoration:none;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap: 16px;
+    padding: 14px 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    transition: border-color .15s ease, background .15s ease;
+  }
+  .news-item:hover{ border-color: rgba(242,184,75,0.35); background: var(--surface-hi); }
+  .news-title{
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .news-source{
+    font-size: 10.5px;
+    color: var(--text-muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .updated-badge{
+    font-size: 10.5px;
+    color: var(--text-muted);
+    display:inline-flex;
+    align-items:center;
+    gap: 6px;
+  }
+  .updated-badge::before{
+    content:'';
+    width:6px; height:6px;
+    border-radius:50%;
+    background: var(--gold);
+    display:inline-block;
+  }
+
   /* ---------- Footer ---------- */
   footer{
     margin-top: 50px;
@@ -385,182 +429,47 @@
 </section>
 
 <nav class="catnav wrap">
+  <a href="#noticias">Últimas noticias</a>
   <a href="#cifras">Cifras</a>
   <a href="#historia">Historia</a>
   <a href="#algoritmo">Algoritmo &amp; IA</a>
   <a href="#curiosidades">Curiosidades</a>
   <a href="#memes">Memes</a>
+  <span class="updated-badge mono" id="updatedAt" style="margin-left:auto; align-self:center;">Cargando…</span>
 </nav>
 
 <main class="wrap">
 
+  <section class="feed-section" id="noticias">
+    <h2><span class="n">00</span> Últimas noticias sobre Meta Ads</h2>
+    <div class="news-list" id="feed-noticias">
+      <p class="mono" style="color:var(--text-muted); font-size:12px;">Cargando noticias…</p>
+    </div>
+  </section>
+
   <section class="feed-section" id="cifras">
     <h2><span class="n">01</span> Cifras que impresionan</h2>
-    <div class="grid">
-
-      <article class="card">
-        <span class="tag">Cifras</span>
-        <h3>Meta apunta a 240.000 millones de dólares en 2026</h3>
-        <p>Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.</p>
-        <div class="stat">↳ +22.3% interanual</div>
-      </article>
-
-      <article class="card">
-        <span class="tag">Cifras</span>
-        <h3>Gana más mostrando el mismo anuncio</h3>
-        <p>En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.</p>
-        <div class="stat">↳ Ingresos Q1: +33% interanual</div>
-      </article>
-
-      <article class="card">
-        <span class="tag">Cifras</span>
-        <h3>11,8 millones de marcas compiten por tu atención</h3>
-        <p>Ese es el número estimado de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta, según benchmarks de industria de 2026.</p>
-        <div class="stat">↳ 11.8M anunciantes activos</div>
-      </article>
-
-      <article class="card">
-        <span class="tag">Cifras</span>
-        <h3>Facebook factura más, Instagram enamora más</h3>
-        <p>Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante. Aun así, el 55% de los marketers planea subir su inversión en Instagram este año, frente a solo 25% en Facebook.</p>
-        <div class="stat">↳ 60% / 40% del ingreso publicitario</div>
-      </article>
-
-    </div>
+    <div class="grid" id="feed-cifras" data-label="Cifras"></div>
   </section>
 
   <section class="feed-section" id="historia">
     <h2><span class="n">02</span> Un poco de historia</h2>
-    <div class="grid">
-
-      <article class="card">
-        <span class="tag coral">Historia</span>
-        <h3>El primer anuncio de Facebook costaba 10 dólares al día</h3>
-        <p>Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban "Flyers": banners simples para negocios locales, pensados para un puñado de estudiantes.</p>
-        <div class="stat">↳ Año: 2004</div>
-      </article>
-
-      <article class="card">
-        <span class="tag coral">Historia</span>
-        <h3>Con 5 dólares llegabas a mil personas</h3>
-        <p>Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas, una fracción de lo que costaba un anuncio de radio o prensa.</p>
-        <div class="stat">↳ $5 ≈ 1.000 personas</div>
-      </article>
-
-      <article class="card">
-        <span class="tag coral">Historia</span>
-        <h3>Beacon: el experimento que casi hunde la confianza</h3>
-        <p>En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. La polémica y las demandas lo obligaron a cerrar en 2009.</p>
-        <div class="stat">↳ Activo: 2007–2009</div>
-      </article>
-
-      <article class="card">
-        <span class="tag coral">Historia</span>
-        <h3>El primer banner de la historia tuvo un CTR del 78%</h3>
-        <p>En 1994, AT&amp;T pagó por el primer banner clicable de internet, publicado en HotWired.com. Según los registros de la época, cerca del 78% de quienes lo vieron hicieron clic: una cifra hoy prácticamente imposible.</p>
-        <div class="stat">↳ CTR original: 78%</div>
-      </article>
-
-    </div>
+    <div class="grid" id="feed-historia" data-label="Historia"></div>
   </section>
 
   <section class="feed-section" id="algoritmo">
     <h2><span class="n">03</span> El algoritmo, por dentro</h2>
-    <div class="grid">
-
-      <article class="card">
-        <span class="tag">Algoritmo</span>
-        <h3>Dejó de mirar clics para predecir el futuro</h3>
-        <p>Desde marzo de 2026, el sistema de Meta ya no optimiza solo por clics: intenta predecir qué usuarios convertirán más adelante. Las cuentas con pocos eventos de conversión pueden pagar un CPM hasta 40% más caro.</p>
-        <div class="stat">↳ Penalización: hasta +40% CPM</div>
-      </article>
-
-      <article class="card">
-        <span class="tag">Algoritmo</span>
-        <h3>Dos métricas se volvieron una sola</h3>
-        <p>En 2026 la plataforma unificó "impresiones" y "reproducciones de video" en un único indicador llamado Views, reflejo de que feed, historias y reels ya operan como un mismo ecosistema híbrido.</p>
-        <div class="stat">↳ Nueva métrica: Views</div>
-      </article>
-
-      <article class="card">
-        <span class="tag">Algoritmo</span>
-        <h3>8 de cada 10 personas ven video sin sonido</h3>
-        <p>Por eso los anuncios que mejor funcionan en 2026 dependen de subtítulos y de un gancho visual en los primeros segundos, no del audio ni de la producción.</p>
-        <div class="stat">↳ 85% ve sin sonido</div>
-      </article>
-
-    </div>
+    <div class="grid" id="feed-algoritmo" data-label="Algoritmo"></div>
   </section>
 
   <section class="feed-section" id="curiosidades">
     <h2><span class="n">04</span> Curiosidades sueltas</h2>
-    <div class="grid">
-
-      <article class="card">
-        <span class="tag coral">Curiosidad</span>
-        <h3>Invierte en IA más que el PIB de países enteros</h3>
-        <p>Meta destinó entre 125.000 y 145.000 millones de dólares a infraestructura de inteligencia artificial en 2026: la misma tecnología que hoy decide qué anuncio ves y cuánto cuesta mostrártelo.</p>
-        <div class="stat">↳ Inversión en IA: $125–145B</div>
-      </article>
-
-      <article class="card">
-        <span class="tag coral">Curiosidad</span>
-        <h3>Las campañas automáticas mejoraron el retorno 41%</h3>
-        <p>Los anunciantes que usan Advantage+, el sistema de automatización de Meta, reportan hasta 41% más retorno sobre la inversión publicitaria y 17% menos costo de adquisición de clientes.</p>
-        <div class="stat">↳ ROAS: +41%</div>
-      </article>
-
-      <article class="card">
-        <span class="tag coral">Curiosidad</span>
-        <h3>3.580 millones de personas al día</h3>
-        <p>Ese es el número de personas que, en promedio, usan a diario alguna app de la familia Meta (Facebook, Instagram, WhatsApp, Messenger). Es casi la mitad de la humanidad, entrando todos los días.</p>
-        <div class="stat">↳ DAP: 3.58B</div>
-      </article>
-
-    </div>
+    <div class="grid" id="feed-curiosidades" data-label="Curiosidad"></div>
   </section>
 
   <section class="feed-section" id="memes">
     <h2><span class="n">05</span> Memes de la comunidad</h2>
-    <div class="meme-grid">
-
-      <article class="meme-card">
-        <div class="meme-cap top">Yo subiendo el presupuesto $10 al día</div>
-        <div class="meme-art a">📈<span class="badge mono">CPM +37%</span></div>
-        <div class="meme-cap bottom">El CPM: "gracias por el aumento"</div>
-      </article>
-
-      <article class="meme-card">
-        <div class="meme-cap top">El cliente: "¿por qué el anuncio no vende?"</div>
-        <div class="meme-art b">🧠<span class="badge mono">FASE DE APRENDIZAJE</span></div>
-        <div class="meme-cap bottom">Yo: "el algoritmo todavía está aprendiendo"</div>
-      </article>
-
-      <article class="meme-card">
-        <div class="meme-cap top">Encuentras el anuncio ganador</div>
-        <div class="meme-art c">🔁<span class="badge mono">DUPLICAR</span></div>
-        <div class="meme-cap bottom">Lo duplicas 6 veces antes de dormir</div>
-      </article>
-
-      <article class="meme-card">
-        <div class="meme-cap top">Meta lanza una actualización sin avisar</div>
-        <div class="meme-art a">🌀<span class="badge mono">LUNES 8:00 AM</span></div>
-        <div class="meme-cap bottom">Todo el equipo de Ads, a la vez</div>
-      </article>
-
-      <article class="meme-card">
-        <div class="meme-cap top">Advantage+ optimizando la campaña</div>
-        <div class="meme-art b">🤖<span class="badge mono">AUTO-PILOTO</span></div>
-        <div class="meme-cap bottom">Yo, sin tocar nada, mirando el ROAS subir</div>
-      </article>
-
-      <article class="meme-card">
-        <div class="meme-cap top">Día 1 del mes: el CPM despierta</div>
-        <div class="meme-art c">☕<span class="badge mono">PRESUPUESTO</span></div>
-        <div class="meme-cap bottom">Y decide subir "porque sí"</div>
-      </article>
-
-    </div>
+    <div class="meme-grid" id="feed-memes"></div>
   </section>
 
 </main>
@@ -573,21 +482,83 @@
 </footer>
 
 <script>
-  const facts = [
-    'Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026',
-    'El primer banner de internet (1994) tuvo un <b>78% de clics</b>',
-    '<b>11.8M</b> anunciantes activos compiten hoy en Meta Ads',
-    'Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007',
-    'El algoritmo ahora predice conversiones, no solo clics',
-    '<b>85%</b> de las personas ve video sin sonido',
-    'Meta invierte hasta <b>$145.000M</b> en infraestructura de IA',
-    'Advantage+ mejora el ROAS hasta un <b>41%</b>',
-  ];
-  const track = document.getElementById('tickerTrack');
-  const build = () => facts.map(f =>
-    `<span class="ticker-item">${f}<span class="dot">·</span></span>`
-  ).join('');
-  track.innerHTML = build() + build();
+  function esc(s){
+    return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  function renderTicker(items){
+    const track = document.getElementById('tickerTrack');
+    if(!track || !items.length) return;
+    const html = items.map(f => `<span class="ticker-item">${f}<span class="dot">·</span></span>`).join('');
+    track.innerHTML = html + html;
+  }
+
+  function renderCards(containerId, items){
+    const el = document.getElementById(containerId);
+    if(!el) return;
+    const label = el.dataset.label || '';
+    const coral = (containerId === 'feed-historia' || containerId === 'feed-curiosidades') ? ' coral' : '';
+    el.innerHTML = items.map(it => `
+      <article class="card">
+        <span class="tag${coral}">${esc(label)}</span>
+        <h3>${esc(it.title)}</h3>
+        <p>${esc(it.text)}</p>
+        <div class="stat">↳ ${esc(it.num)}</div>
+      </article>
+    `).join('');
+  }
+
+  function renderMemes(items){
+    const el = document.getElementById('feed-memes');
+    if(!el) return;
+    el.innerHTML = items.map(m => `
+      <article class="meme-card">
+        <div class="meme-cap top">${esc(m.top)}</div>
+        <div class="meme-art ${esc(m.art)}">${m.emoji}<span class="badge mono">${esc(m.badge)}</span></div>
+        <div class="meme-cap bottom">${esc(m.bottom)}</div>
+      </article>
+    `).join('');
+  }
+
+  function renderNoticias(items){
+    const el = document.getElementById('feed-noticias');
+    if(!el) return;
+    if(!items.length){
+      el.innerHTML = '<p class="mono" style="color:var(--text-muted); font-size:12px;">Sin noticias nuevas por ahora — vuelve mañana.</p>';
+      return;
+    }
+    el.innerHTML = items.map(n => `
+      <a class="news-item" href="${esc(n.link)}" target="_blank" rel="noopener">
+        <span class="news-title">${esc(n.titulo)}</span>
+        <span class="news-source mono">${esc(n.fuente)}</span>
+      </a>
+    `).join('');
+  }
+
+  async function cargarContenido(){
+    try{
+      const res = await fetch('contenido.json?_=' + Date.now());
+      if(!res.ok) throw new Error('No se pudo leer contenido.json');
+      const data = await res.json();
+
+      renderTicker(data.ticker || []);
+      renderCards('feed-cifras', data.cifras || []);
+      renderCards('feed-historia', data.historia || []);
+      renderCards('feed-algoritmo', data.algoritmo || []);
+      renderCards('feed-curiosidades', data.curiosidades || []);
+      renderMemes(data.memes || []);
+      renderNoticias(data.noticias || []);
+
+      const upd = document.getElementById('updatedAt');
+      if(upd) upd.textContent = data.actualizado ? `Actualizado: ${data.actualizado}` : '';
+    }catch(e){
+      console.error('Error cargando contenido.json:', e);
+      const upd = document.getElementById('updatedAt');
+      if(upd) upd.textContent = 'No se pudo cargar el contenido';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', cargarContenido);
 </script>
 
 </body>
