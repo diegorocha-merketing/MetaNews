@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-27 02:23 UTC",
+  "actualizado": "2026-07-27 17:20 UTC",
   "ticker": [
     "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
     "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
@@ -156,5 +156,31 @@
       "art": "c"
     }
   ],
-  "noticias": []
+  "noticias": [
+    {
+      "titulo": "Facebook e Instagram difundieron miles de anuncios de IA para crear desnudos falsos, según informe - Bloomberg Línea",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUDdHaHdGajJJUWQzNlFYc21LVnJvRml4SlZBSHRqU1Y0TnpTSW9FZ3l0ZUdfWTFlUnZWZHBGT3hJZVpZSC1NOWVUS1lvaU92RTlYNVlmRlBFWmNlZEJhMzJraktmODRmZVRHaTg2aEsxN1J4MTFTdHJhQ3U3LTJQbzBXcy1GZEZFM0hhajdhZ2l5ZnlGLUplVFZJSnBwSnd4eXJyak5NdXFiUmRld3UxdkZHLUQ5UDdKbzJmWW9pU25sUnBFNnNtVGQyU0RlR2ROMU1PZGhJR3VTUHlkcUo1TnNQZ0J2MGg0RXNr0gHrAUFVX3lxTFBQN0dod0ZqMklRZDM2UVhzbUtWcm9GaXhKVkFIdGpTVjROelNJb0VneXRlR19ZMWVSdlZkcEZPeEllWllILU05ZVRLWW9pT3ZFOVg1WWZGUEVaY2VkQmEzMmtqS2Y4NGZlVEdpODZoSzE3UngxMVN0cmFDdTctMlBvMFdzLUZkRkUzSGFqN2FnaXlmeUYtSmVUVklKcHBKd3h5cnJqTk11cWJSZGV3dTF2RkctRDlQN0pvMmZZb2lTbmxScEU2c21UZDJTRGVHZE4xTU9kaElHdVNQeWRxSjVOc1BnQnYwaDRFc2s?oc=5",
+      "fuente": "Bloomberg Línea"
+    },
+    {
+      "titulo": "Meta ahuyenta el miedo a la IA con un spot sazonado con una buena dosis de optimismo - Marketing Directo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGdyWHYwUWdIeXJzUEdRQVV5ZjN0LXRkLVNrT1lPa2Z1cHRTZk9KWS16LWh2WlhSZ2MtSXg1bUV6cFM2cWpVangwOE1YNmp6RlVxQ1FDbVprXzVzV2F5QWE1YUpfMGgxUnA4VjZoQ2tjQTYwNHU1SlVENks5UXpteWpHZk9tRHVYa2ZuN1RoU0ZpV2phVnlfVlYwekVEc3RpNnhENGkzVnBMdllYUXpESC1WMjg3RGPSAbwBQVVfeXFMTk9ya0h1OXBjNi0yOW1XU3VVVHdPc2pfWmplcmpNMXRGNTNGLUNBWkpnYk53TkRUTlMxdGdLZVFtYVl5aDF1TncwVDUwd1NEYU9RbkstQ3FrTV9vZGhpWDIwRkM4SU5LRmJYWlBZNElyQWwzaTRaWE1GbHpBUXRVVkUta0t3N3RoVWpabW1tU0l6TVQ1WUFzYXRzb0JybE91MkdOREhDSWFTY2xlQk1Yd0I2QlREcHUtZTBoQUs?oc=5",
+      "fuente": "Marketing Directo"
+    },
+    {
+      "titulo": "Por qué Meta suspende cuentas: 7 motivos y cómo evitarlo - DiG Abogados",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3VFZncnpfbVVpc3FlMHNUbmNGSUlLTGVNVFV3V3YxYmc0SWUtZ3pFSVBwbUFNaVctSjAtTTluSFhkT1hHMHkxcDQwRnpIQnNlNUlrY3dCYV9YVDViMUs2YWp3MnczSnlBbUhz?oc=5",
+      "fuente": "DiG Abogados"
+    },
+    {
+      "titulo": "Acciones de Lightspeed suben por integración con Meta Ads - Investing.com México",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGpIZGFKaE10dDhuVDZXQW9DeDBrNDY0UHVtU0VNckc4WkJqOGtrN2NIMktVN05MWjhiRjFXRnh2UmFyX002cTZDcGtHTW8xcEFBREJlbDY3UTJ6RFA1eDAxcTQwS2h5dTJYM2RZUXpCN1NpVEVycjNrWUx1bU1fUGJvZ2ZXMF9OQ1UyOUJBRDRhRFE5OF9Ka3hxcW1CMFA4SWd2dXhIMHRUa1JiQjcwM0JPNldPQVJSZlE?oc=5",
+      "fuente": "Investing.com México"
+    },
+    {
+      "titulo": "Tendencias en Meta Ads 2026: qué debe dominar tu agencia - Cyberclick",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1VvYWtqbVlqX3JzQkFQWW1lRExsbk1MTmpKSkFoUlFHX0s4SUV4RmhDX2pOY3J5U0daSy1vWkt0QXdzQ3hON21BbTUtOXlUTHFPLVV0SWF3cWNhZ0VqNG1yNGlfMU84SGtpUERTaHZMeWpmWTZHZzdJQ3lHSUt1bW9FQlpNNG5yNTNvb094YXplWmFMSUHSAaYBQVVfeXFMT3pnRFlXc0RwS0dhRXl6NzhVQ0xUam84TnVyaUhtQ01QWmlrVHFLY0RES1g4eHY2aExRV0xHcmhxMGZBazlDeG9MOWQ4T1pEdDhIaXAtNkRNQjYwdmRnbUFyQzZjNHpvX1pVRHlQbVBhWDQ1NDZzbl9BN1dmM09TWFNiMUNYQlJ5R0tHUkVoVUZMcVlIbFotdTMwN1l4N2NxR1BoZG5FUQ?oc=5",
+      "fuente": "Cyberclick"
+    }
+  ]
 }
