@@ -1,0 +1,136 @@
+{
+  "actualizado": "2026-07-22 21:46 UTC",
+  "ticker": [
+    "<b>85%</b> de las personas ve video sin sonido",
+    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
+    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
+    "<b>11.8M</b> anunciantes activos compiten hoy en Meta Ads",
+    "<b>3.580M</b> de personas usan una app de Meta cada día",
+    "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
+    "El algoritmo ahora predice conversiones, no solo clics",
+    "Advantage+ mejora el ROAS hasta un <b>41%</b>"
+  ],
+  "cifras": [
+    {
+      "num": "+33%",
+      "title": "Gana más mostrando el mismo anuncio",
+      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez."
+    },
+    {
+      "num": "3.58B",
+      "title": "3.580 millones de personas al día",
+      "text": "Ese es el número de personas que, en promedio, usan a diario alguna app de la familia Meta: Facebook, Instagram, WhatsApp y Messenger."
+    },
+    {
+      "num": "11.8M",
+      "title": "11,8 millones de marcas compiten por tu atención",
+      "text": "Ese es el número estimado de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta, según benchmarks de industria de 2026."
+    },
+    {
+      "num": "60/40",
+      "title": "Facebook factura más, Instagram enamora más",
+      "text": "Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante. Aun así, más marketers planean subir su inversión en Instagram este año."
+    }
+  ],
+  "historia": [
+    {
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas."
+    },
+    {
+      "num": "2012",
+      "title": "Nacen los Públicos Personalizados",
+      "text": "En 2012 Facebook lanzó Custom Audiences, la función que permitió a las marcas subir sus propias bases de datos de clientes para encontrarlos en la plataforma."
+    },
+    {
+      "num": "2007–2009",
+      "title": "Beacon: el experimento que casi hunde la confianza",
+      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras la polémica."
+    },
+    {
+      "num": "78% CTR",
+      "title": "El primer banner de la historia tuvo un CTR del 78%",
+      "text": "En 1994, AT&T pagó por el primer banner clicable de internet, publicado en HotWired.com — una cifra hoy prácticamente imposible."
+    }
+  ],
+  "algoritmo": [
+    {
+      "num": "85%",
+      "title": "8 de cada 10 personas ven video sin sonido",
+      "text": "Por eso los anuncios que mejor funcionan dependen de subtítulos y un gancho visual en los primeros segundos, no del audio."
+    },
+    {
+      "num": "Advantage+",
+      "title": "La automatización dejó de ser opcional",
+      "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta el diseño de sus anuncios a los sistemas automatizados de Meta."
+    },
+    {
+      "num": "Views",
+      "title": "Dos métricas se volvieron una sola",
+      "text": "En 2026 la plataforma unificó 'impresiones' y 'reproducciones de video' en un único indicador llamado Views."
+    }
+  ],
+  "curiosidades": [
+    {
+      "num": "1994",
+      "title": "Todo empezó con un banner",
+      "text": "El primer anuncio digital de la historia se publicó en 1994, tres años antes de que naciera el concepto moderno de red social."
+    },
+    {
+      "num": "+41% ROAS",
+      "title": "Las campañas automáticas mejoraron el retorno 41%",
+      "text": "Los anunciantes que usan Advantage+ reportan hasta 41% más retorno sobre la inversión y 17% menos costo de adquisición de clientes."
+    },
+    {
+      "num": "∞ variantes",
+      "title": "Un anuncio nunca se ve igual dos veces",
+      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema."
+    }
+  ],
+  "memes": [
+    {
+      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
+      "emoji": "🧠",
+      "badge": "FASE DE APRENDIZAJE",
+      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
+      "art": "b"
+    },
+    {
+      "top": "Advantage+ optimizando la campaña",
+      "emoji": "🤖",
+      "badge": "AUTO-PILOTO",
+      "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
+      "art": "b"
+    },
+    {
+      "top": "Encuentras el anuncio ganador",
+      "emoji": "🔁",
+      "badge": "DUPLICAR",
+      "bottom": "Lo duplicas 6 veces antes de dormir",
+      "art": "c"
+    },
+    {
+      "top": "Meta lanza una actualización sin avisar",
+      "emoji": "🌀",
+      "badge": "LUNES 8:00 AM",
+      "bottom": "Todo el equipo de Ads, a la vez",
+      "art": "a"
+    },
+    {
+      "top": "Día 1 del mes: el CPM despierta",
+      "emoji": "☕",
+      "badge": "PRESUPUESTO",
+      "bottom": "Y decide subir \"porque sí\"",
+      "art": "c"
+    },
+    {
+      "top": "Yo subiendo el presupuesto $10 al día",
+      "emoji": "📈",
+      "badge": "CPM +37%",
+      "bottom": "El CPM: \"gracias por el aumento\"",
+      "art": "a"
+    }
+  ],
+  "noticias": []
+}
