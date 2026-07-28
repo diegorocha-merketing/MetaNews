@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-07-27 17:20 UTC",
+  "actualizado": "2026-07-28 16:53 UTC",
   "ticker": [
+    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
+    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
     "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
     "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
-    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
-    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
-    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
     "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
-    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
-    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007"
+    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
+    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
+    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%"
   ],
   "cifras": [
     {
@@ -26,9 +26,9 @@
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
-      "num": "$240B",
-      "title": "Meta apunta a 240.000 millones de dólares en 2026",
-      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.",
+      "num": "11.8M",
+      "title": "Millones de marcas compiten por tu atención",
+      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
       "fuente": "WARC Media / adobo Magazine",
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
@@ -56,11 +56,11 @@
       "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     },
     {
-      "num": "2004",
-      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
-      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales.",
-      "fuente": "Historia de Facebook — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+      "num": "2007–2009",
+      "title": "Beacon: el experimento que casi hunde la confianza",
+      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
+      "fuente": "Wikipedia — Facebook Beacon",
+      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
     },
     {
       "num": "$5 ≈ 1.000",
@@ -72,9 +72,18 @@
   ],
   "algoritmo": [
     {
-      "num": "IA generativa",
-      "title": "El algoritmo también genera los anuncios",
-      "text": "Las herramientas de generación de imagen y texto integradas en Meta Ads permiten crear variaciones de un mismo anuncio automáticamente, algo impensado hace pocos años."
+      "num": "3–8seg",
+      "title": "El gancho se decide en los primeros segundos",
+      "text": "Bajo el sistema actual, el 'hook rate' —el porcentaje de personas que sigue viendo un video pasados los primeros segundos— es el indicador que más predice si un anuncio en video va a funcionar.",
+      "fuente": "The Interconnections",
+      "url": "https://www.theinterconnections.com/blog/meta-ads-2026"
+    },
+    {
+      "num": "10.000x",
+      "title": "El motor detrás del feed se llama Andromeda",
+      "text": "Desde finales de 2024, Meta despliega 'Andromeda', un motor de recuperación de anuncios con 10.000 veces más capacidad de modelo que su predecesor. Para 2026 corre en la totalidad de las cuentas de Facebook e Instagram.",
+      "fuente": "Common Thread Collective",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/meta-andromeda-roas-creative-strategy-2026"
     },
     {
       "num": "Advantage+",
@@ -82,29 +91,22 @@
       "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta la creatividad de sus campañas a los sistemas automatizados de Meta, en vez de configurarlos manualmente.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
-    },
-    {
-      "num": "25/semana",
-      "title": "El umbral de conversiones bajó en 2026",
-      "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
-      "fuente": "Benly",
-      "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
     }
   ],
   "curiosidades": [
+    {
+      "num": "1994",
+      "title": "Todo empezó con un banner de 30.000 dólares",
+      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
+      "fuente": "Digiday",
+      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
+    },
     {
       "num": "4.52x vs 3.70x",
       "title": "Las campañas automáticas rinden ~22% más",
       "text": "Las campañas Advantage+ Shopping promedian un ROAS de 4.52x frente a 3.70x de las campañas manuales equivalentes, según benchmarks de la industria en 2026.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
-    },
-    {
-      "num": "$125–145B",
-      "title": "Invierte en IA más que el PIB de países enteros",
-      "text": "Meta anunció planes para destinar entre 125.000 y 145.000 millones de dólares a infraestructura de inteligencia artificial: la misma tecnología que hoy decide qué anuncio ves.",
-      "fuente": "MediaNews4u",
-      "url": "https://www.medianews4u.com/meta-to-earn-240bn-from-advertising-in-2026-outpacing-global-social-media-ad-growth-warc/"
     },
     {
       "num": "∞ variantes",
@@ -128,11 +130,11 @@
       "art": "a"
     },
     {
-      "top": "Yo subiendo el presupuesto $10 al día",
-      "emoji": "📈",
-      "badge": "CPM +37%",
-      "bottom": "El CPM: \"gracias por el aumento\"",
-      "art": "a"
+      "top": "Encuentras el anuncio ganador",
+      "emoji": "🔁",
+      "badge": "DUPLICAR",
+      "bottom": "Lo duplicas 6 veces antes de dormir",
+      "art": "c"
     },
     {
       "top": "El cliente: \"¿por qué el anuncio no vende?\"",
@@ -142,18 +144,18 @@
       "art": "b"
     },
     {
+      "top": "Yo subiendo el presupuesto $10 al día",
+      "emoji": "📈",
+      "badge": "CPM +37%",
+      "bottom": "El CPM: \"gracias por el aumento\"",
+      "art": "a"
+    },
+    {
       "top": "Advantage+ optimizando la campaña",
       "emoji": "🤖",
       "badge": "AUTO-PILOTO",
       "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
       "art": "b"
-    },
-    {
-      "top": "Encuentras el anuncio ganador",
-      "emoji": "🔁",
-      "badge": "DUPLICAR",
-      "bottom": "Lo duplicas 6 veces antes de dormir",
-      "art": "c"
     }
   ],
   "noticias": [
@@ -161,16 +163,6 @@
       "titulo": "Facebook e Instagram difundieron miles de anuncios de IA para crear desnudos falsos, según informe - Bloomberg Línea",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUDdHaHdGajJJUWQzNlFYc21LVnJvRml4SlZBSHRqU1Y0TnpTSW9FZ3l0ZUdfWTFlUnZWZHBGT3hJZVpZSC1NOWVUS1lvaU92RTlYNVlmRlBFWmNlZEJhMzJraktmODRmZVRHaTg2aEsxN1J4MTFTdHJhQ3U3LTJQbzBXcy1GZEZFM0hhajdhZ2l5ZnlGLUplVFZJSnBwSnd4eXJyak5NdXFiUmRld3UxdkZHLUQ5UDdKbzJmWW9pU25sUnBFNnNtVGQyU0RlR2ROMU1PZGhJR3VTUHlkcUo1TnNQZ0J2MGg0RXNr0gHrAUFVX3lxTFBQN0dod0ZqMklRZDM2UVhzbUtWcm9GaXhKVkFIdGpTVjROelNJb0VneXRlR19ZMWVSdlZkcEZPeEllWllILU05ZVRLWW9pT3ZFOVg1WWZGUEVaY2VkQmEzMmtqS2Y4NGZlVEdpODZoSzE3UngxMVN0cmFDdTctMlBvMFdzLUZkRkUzSGFqN2FnaXlmeUYtSmVUVklKcHBKd3h5cnJqTk11cWJSZGV3dTF2RkctRDlQN0pvMmZZb2lTbmxScEU2c21UZDJTRGVHZE4xTU9kaElHdVNQeWRxSjVOc1BnQnYwaDRFc2s?oc=5",
       "fuente": "Bloomberg Línea"
-    },
-    {
-      "titulo": "Meta ahuyenta el miedo a la IA con un spot sazonado con una buena dosis de optimismo - Marketing Directo",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGdyWHYwUWdIeXJzUEdRQVV5ZjN0LXRkLVNrT1lPa2Z1cHRTZk9KWS16LWh2WlhSZ2MtSXg1bUV6cFM2cWpVangwOE1YNmp6RlVxQ1FDbVprXzVzV2F5QWE1YUpfMGgxUnA4VjZoQ2tjQTYwNHU1SlVENks5UXpteWpHZk9tRHVYa2ZuN1RoU0ZpV2phVnlfVlYwekVEc3RpNnhENGkzVnBMdllYUXpESC1WMjg3RGPSAbwBQVVfeXFMTk9ya0h1OXBjNi0yOW1XU3VVVHdPc2pfWmplcmpNMXRGNTNGLUNBWkpnYk53TkRUTlMxdGdLZVFtYVl5aDF1TncwVDUwd1NEYU9RbkstQ3FrTV9vZGhpWDIwRkM4SU5LRmJYWlBZNElyQWwzaTRaWE1GbHpBUXRVVkUta0t3N3RoVWpabW1tU0l6TVQ1WUFzYXRzb0JybE91MkdOREhDSWFTY2xlQk1Yd0I2QlREcHUtZTBoQUs?oc=5",
-      "fuente": "Marketing Directo"
-    },
-    {
-      "titulo": "Por qué Meta suspende cuentas: 7 motivos y cómo evitarlo - DiG Abogados",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3VFZncnpfbVVpc3FlMHNUbmNGSUlLTGVNVFV3V3YxYmc0SWUtZ3pFSVBwbUFNaVctSjAtTTluSFhkT1hHMHkxcDQwRnpIQnNlNUlrY3dCYV9YVDViMUs2YWp3MnczSnlBbUhz?oc=5",
-      "fuente": "DiG Abogados"
     },
     {
       "titulo": "Acciones de Lightspeed suben por integración con Meta Ads - Investing.com México",
@@ -181,6 +173,16 @@
       "titulo": "Tendencias en Meta Ads 2026: qué debe dominar tu agencia - Cyberclick",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1VvYWtqbVlqX3JzQkFQWW1lRExsbk1MTmpKSkFoUlFHX0s4SUV4RmhDX2pOY3J5U0daSy1vWkt0QXdzQ3hON21BbTUtOXlUTHFPLVV0SWF3cWNhZ0VqNG1yNGlfMU84SGtpUERTaHZMeWpmWTZHZzdJQ3lHSUt1bW9FQlpNNG5yNTNvb094YXplWmFMSUHSAaYBQVVfeXFMT3pnRFlXc0RwS0dhRXl6NzhVQ0xUam84TnVyaUhtQ01QWmlrVHFLY0RES1g4eHY2aExRV0xHcmhxMGZBazlDeG9MOWQ4T1pEdDhIaXAtNkRNQjYwdmRnbUFyQzZjNHpvX1pVRHlQbVBhWDQ1NDZzbl9BN1dmM09TWFNiMUNYQlJ5R0tHUkVoVUZMcVlIbFotdTMwN1l4N2NxR1BoZG5FUQ?oc=5",
       "fuente": "Cyberclick"
+    },
+    {
+      "titulo": "Simplificando la medición de anuncios para un mundo “social-first” - Meta Store",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2pEcTJrQ2x3TkI0QmNKaURxSkVlUjhGV2dDTDZJTUZ4bjF5QnhheFdaZ3NXVUVYZ3hLdU83cVQ4Vk9jSXV6bmx1a053RzlaZUZkUzZ6VUlxZ3k4NVE0TmNrb2tNYUVJeFVxYnczN3pXUEpwSWszQVNnb19HNGJ6dTNqZmxaTUljOHpNMDBpeC01RmI3d1lCOHhaVGp4NDVuczJwUWkyVdIBrAFBVV95cUxQRDFCcnFEWjRQdVN2NnROZVd2TjljUHN3cXdqS3Z5cGJ6RnFoV041aXI3VlpFTWVRSnlEZG11bEk4UUhBQnpKejNGVUJibGJ5VGxNQ2dYVjFqbGJjNDF1YXZWeHVndlhVbXhDWUU5LXV6WnNYajRPMmt4WGFtbG1nbGctSjFCQkx0TXZ1QnE1RXBQY2VSR09VV1d6dVpNWTVBT21YQUF3OVVmenZv?oc=5",
+      "fuente": "Meta Store"
+    },
+    {
+      "titulo": "Por qué Meta suspende cuentas: los 7 motivos más frecuentes y cómo prevenirlos - DiG Abogados",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3VFZncnpfbVVpc3FlMHNUbmNGSUlLTGVNVFV3V3YxYmc0SWUtZ3pFSVBwbUFNaVctSjAtTTluSFhkT1hHMHkxcDQwRnpIQnNlNUlrY3dCYV9YVDViMUs2YWp3MnczSnlBbUhz?oc=5",
+      "fuente": "DiG Abogados"
     }
   ]
 }
