@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-08-28 21:17 UTC",
+  "actualizado": "2026-08-29 15:23 UTC",
   "ticker": [
     "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
-    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
-    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
-    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
     "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
-    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
     "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
-    "En 2012 nacieron los Públicos Personalizados en Facebook Ads"
+    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
+    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
+    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
+    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales"
   ],
   "cifras": [
     {
@@ -33,9 +33,9 @@
       "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
     },
     {
-      "num": "IA + Ads",
-      "title": "El negocio de anuncios financia la carrera de IA",
-      "text": "WARC Media describe un 'volante' donde los ingresos publicitarios financian la inversión en IA de Meta, que a su vez mejora el rendimiento de los anuncios y atrae más inversión publicitaria.",
+      "num": "$240B",
+      "title": "Meta apunta a 240.000 millones de dólares en 2026",
+      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.",
       "fuente": "WARC Media / adobo Magazine",
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     }
@@ -63,9 +63,9 @@
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
     {
-      "num": "2004 → hoy",
-      "title": "De banners universitarios a un imperio publicitario",
-      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
+      "num": "2004",
+      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
+      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales.",
       "fuente": "Historia de Facebook — Wikipedia",
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     }
@@ -79,18 +79,18 @@
       "url": "https://www.theinterconnections.com/blog/meta-ads-2026"
     },
     {
-      "num": "10.000x",
-      "title": "El motor detrás del feed se llama Andromeda",
-      "text": "Desde finales de 2024, Meta despliega 'Andromeda', un motor de recuperación de anuncios con 10.000 veces más capacidad de modelo que su predecesor. Para 2026 corre en la totalidad de las cuentas de Facebook e Instagram.",
-      "fuente": "Common Thread Collective",
-      "url": "https://commonthreadco.com/blogs/coachs-corner/meta-andromeda-roas-creative-strategy-2026"
-    },
-    {
       "num": "Advantage+",
       "title": "La automatización dejó de ser opcional",
       "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta la creatividad de sus campañas a los sistemas automatizados de Meta, en vez de configurarlos manualmente.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
+    },
+    {
+      "num": "10.000x",
+      "title": "El motor detrás del feed se llama Andromeda",
+      "text": "Desde finales de 2024, Meta despliega 'Andromeda', un motor de recuperación de anuncios con 10.000 veces más capacidad de modelo que su predecesor. Para 2026 corre en la totalidad de las cuentas de Facebook e Instagram.",
+      "fuente": "Common Thread Collective",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/meta-andromeda-roas-creative-strategy-2026"
     }
   ],
   "curiosidades": [
@@ -102,16 +102,16 @@
       "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     },
     {
+      "num": "∞ variantes",
+      "title": "Un anuncio nunca se ve igual dos veces",
+      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
+    },
+    {
       "num": "4.52x vs 3.70x",
       "title": "Las campañas automáticas rinden ~22% más",
       "text": "Las campañas Advantage+ Shopping promedian un ROAS de 4.52x frente a 3.70x de las campañas manuales equivalentes, según benchmarks de la industria en 2026.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
-    },
-    {
-      "num": "∞ variantes",
-      "title": "Un anuncio nunca se ve igual dos veces",
-      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
     }
   ],
   "memes": [
@@ -137,13 +137,6 @@
       "art": "b"
     },
     {
-      "top": "Día 1 del mes: el CPM despierta",
-      "emoji": "☕",
-      "badge": "PRESUPUESTO",
-      "bottom": "Y decide subir \"porque sí\"",
-      "art": "c"
-    },
-    {
       "top": "Yo subiendo el presupuesto $10 al día",
       "emoji": "📈",
       "badge": "CPM +37%",
@@ -156,6 +149,13 @@
       "badge": "AUTO-PILOTO",
       "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
       "art": "b"
+    },
+    {
+      "top": "Día 1 del mes: el CPM despierta",
+      "emoji": "☕",
+      "badge": "PRESUPUESTO",
+      "bottom": "Y decide subir \"porque sí\"",
+      "art": "c"
     }
   ],
   "noticias": [
@@ -163,6 +163,11 @@
       "titulo": "Brasil: Un experimento de Amnistía Internacional revela que Meta no detecta anuncios con desinformación electoral en Facebook - Amnesty International",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNVRHN0lwbFhSV18wS3c3YmF3eGhEMDVERlFwYV96SDlMUnFnVWdSTlN0NjVlMVJIVEJHTEF0SUljSEdlZ1hVdXQ3WHNLNGpSaHJLa1BfOGVBSDF0cUFPWVRJQU5LMW10WWVVdUVHNWZlYkVheUtfdmtpVWg2ZGs1ODY2M1M?oc=5",
       "fuente": "Amnesty International"
+    },
+    {
+      "titulo": "Meta Startup School lanza cohorte de 200 startups en India - El Ecosistema Startup",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2d5OExiQ2xKM2RvbFoybU5zVlJSX0NZLXZjemF3SmNreFJrUUh6U0RIMndUVFFGNVg5Sk1tT3Brd2lNRldqR2NPOWxnS3dicTZUSmc5eFkwaTlqbmt4b3NNazFjN1puUDR1V3hjeEJJVXd2ZEFSYnlUMi13SzdRVzItQzBvenhtRzZ2NjV2WkRQOUE?oc=5",
+      "fuente": "El Ecosistema Startup"
     },
     {
       "titulo": "Tendencias en Meta Ads 2026: qué debe dominar tu agencia - Cyberclick",
@@ -175,14 +180,9 @@
       "fuente": "Meta Store"
     },
     {
-      "titulo": "Meta ataca a TikTok y YouTube tras su acuerdo multimillonario - Business Insider España",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTnNmZkdYdnJ0czBJazBleFpEeG4xSGVHbkVFc1R1bFg3SC1BMHduUWV6aXZQZWduMllCLVUzRVhBaDZ3WldXRHo5eGk5ZEN4TkhpdW16Qk1PenJBMjM3VXhpa0lOT19NRXkwNVlJclNna2wwRC1MWEkzaVFiZUdhc1RIdUJCMVo1ODMxZWdvTWpOUTFZSnR6ZDVGbEVZVUc1UUl4dno0UjY5QndTc0szRFBFbVdadDhwcDRwUGFGcGI0Q2cyM1RCUWhHZ01EemFycE9INF9CcURaZENOWWJaa0dYTVIyYVdhRlBxZllCLUg2Y3FJ?oc=5",
-      "fuente": "Business Insider España"
-    },
-    {
-      "titulo": "Meta falla en frenar anuncios electorales falsos en Facebook, según Amnistía Internacional - LISA News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOWNMMnNZdGFmclNKTDQ0SGF4UV9YNkxCUGY4RzZIVVdWMkVWT1p5SjBzS081UW52T1I2MGtJbHdPRndUdE8xTkpDNkNJdE5td1c3UU1wU0pSZk9USVNCUFVGbVJENlpXazhYREllcGhmenJHMUl6aG82c1ZMWk9ULXhRVC10aXlkQlVRQnhoRm9FRHQ0dXJyb2xDUVJvczl4bUxsdlRmM0syYlpfc3JIajdMR0F1ZExiM2R0UVRucDZVcmEz0gHMAUFVX3lxTE82ekRKb1gxMEV3eWNab0pQQ1lqRU9lOEdaYmk1S1Z3cDRKTmpNdkJPYU1LcGktYldEd3J2eUZjcWEwR3lvWENHMXRYMVl0MUxtc3ZZMXFMalhQNkMxelEwdHVaMURieEpZc3BET0NVcFdwR3piUFJaR09NYjNGTmdGeDZDNVFZMXhPUkxjWklYRVcwLTU4WEtfcWpEUUVPWWR6d05RMS10cnBHQ3FUX0RrUDJxSUV1ODlOUXpkMTBTU3hNRUI0NnU2Mm5DWA?oc=5",
-      "fuente": "LISA News"
+      "titulo": "🚨 Así Funcionará Meta Ads A Partir De AHORA (y Casi Nadie Está Preparado) Joshua Van (hnkI0OSUts) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IcUtHa2QyNzlyR2JxTEgyemh0b1hUYTVIN1FhMEs3TW5CVTc3dFdZTUFqekx1WnROWkpEemVUaTB1Z2hUT2RQZUdTaGFNUjIyV1BPUDlFMlFyc1VIQ0lSZA?oc=5",
+      "fuente": "Mshale"
     }
   ]
 }
