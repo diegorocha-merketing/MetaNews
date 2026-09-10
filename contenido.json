@@ -1,16 +1,30 @@
 {
-  "actualizado": "2026-09-09 14:55 UTC",
+  "actualizado": "2026-09-10 14:42 UTC",
   "ticker": [
-    "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
-    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
-    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
     "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
+    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
+    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
     "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
     "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
-    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
-    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad"
+    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
+    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA"
   ],
   "cifras": [
+    {
+      "num": "11.8M",
+      "title": "Millones de marcas compiten por tu atención",
+      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
+    },
+    {
+      "num": "$240B",
+      "title": "Meta apunta a 240.000 millones de dólares en 2026",
+      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
+    },
     {
       "num": "+33%",
       "title": "Gana más mostrando el mismo anuncio",
@@ -19,39 +33,32 @@
       "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
     },
     {
-      "num": "IA + Ads",
-      "title": "El negocio de anuncios financia la carrera de IA",
-      "text": "WARC Media describe un 'volante' donde los ingresos publicitarios financian la inversión en IA de Meta, que a su vez mejora el rendimiento de los anuncios y atrae más inversión publicitaria.",
-      "fuente": "WARC Media / adobo Magazine",
-      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
-    },
-    {
       "num": "60/40",
       "title": "Facebook factura más, Instagram enamora más",
       "text": "Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante, según WARC Media.",
-      "fuente": "WARC Media / adobo Magazine",
-      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
-    },
-    {
-      "num": "11.8M",
-      "title": "Millones de marcas compiten por tu atención",
-      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
       "fuente": "WARC Media / adobo Magazine",
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     }
   ],
   "historia": [
     {
-      "num": "$5 ≈ 1.000",
-      "title": "Con 5 dólares llegabas a mil personas",
-      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
+      "num": "2007–2009",
+      "title": "Beacon: el experimento que casi hunde la confianza",
+      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
+      "fuente": "Wikipedia — Facebook Beacon",
+      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
+    },
+    {
+      "num": "2004",
+      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
+      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales.",
       "fuente": "Historia de Facebook — Wikipedia",
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
     {
-      "num": "2004 → hoy",
-      "title": "De banners universitarios a un imperio publicitario",
-      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
       "fuente": "Historia de Facebook — Wikipedia",
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
@@ -61,22 +68,22 @@
       "text": "En 1994, AT&T pagó 30.000 dólares por el primer banner clicable de internet, publicado en HotWired.com. Obtuvo un 44% de clics — una cifra hoy prácticamente imposible.",
       "fuente": "Digiday",
       "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
-    },
-    {
-      "num": "2007–2009",
-      "title": "Beacon: el experimento que casi hunde la confianza",
-      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
-      "fuente": "Wikipedia — Facebook Beacon",
-      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
     }
   ],
   "algoritmo": [
     {
-      "num": "Advantage+",
-      "title": "La automatización dejó de ser opcional",
-      "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta la creatividad de sus campañas a los sistemas automatizados de Meta, en vez de configurarlos manualmente.",
-      "fuente": "AdAmigo",
-      "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
+      "num": "3–8seg",
+      "title": "El gancho se decide en los primeros segundos",
+      "text": "Bajo el sistema actual, el 'hook rate' —el porcentaje de personas que sigue viendo un video pasados los primeros segundos— es el indicador que más predice si un anuncio en video va a funcionar.",
+      "fuente": "The Interconnections",
+      "url": "https://www.theinterconnections.com/blog/meta-ads-2026"
+    },
+    {
+      "num": "25/semana",
+      "title": "El umbral de conversiones bajó en 2026",
+      "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
+      "fuente": "Benly",
+      "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
     },
     {
       "num": "10.000x",
@@ -84,20 +91,22 @@
       "text": "Desde finales de 2024, Meta despliega 'Andromeda', un motor de recuperación de anuncios con 10.000 veces más capacidad de modelo que su predecesor. Para 2026 corre en la totalidad de las cuentas de Facebook e Instagram.",
       "fuente": "Common Thread Collective",
       "url": "https://commonthreadco.com/blogs/coachs-corner/meta-andromeda-roas-creative-strategy-2026"
-    },
-    {
-      "num": "3–8seg",
-      "title": "El gancho se decide en los primeros segundos",
-      "text": "Bajo el sistema actual, el 'hook rate' —el porcentaje de personas que sigue viendo un video pasados los primeros segundos— es el indicador que más predice si un anuncio en video va a funcionar.",
-      "fuente": "The Interconnections",
-      "url": "https://www.theinterconnections.com/blog/meta-ads-2026"
     }
   ],
   "curiosidades": [
     {
-      "num": "∞ variantes",
-      "title": "Un anuncio nunca se ve igual dos veces",
-      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
+      "num": "1994",
+      "title": "Todo empezó con un banner de 30.000 dólares",
+      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
+      "fuente": "Digiday",
+      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
+    },
+    {
+      "num": "$125–145B",
+      "title": "Invierte en IA más que el PIB de países enteros",
+      "text": "Meta anunció planes para destinar entre 125.000 y 145.000 millones de dólares a infraestructura de inteligencia artificial: la misma tecnología que hoy decide qué anuncio ves.",
+      "fuente": "MediaNews4u",
+      "url": "https://www.medianews4u.com/meta-to-earn-240bn-from-advertising-in-2026-outpacing-global-social-media-ad-growth-warc/"
     },
     {
       "num": "4.52x vs 3.70x",
@@ -105,37 +114,9 @@
       "text": "Las campañas Advantage+ Shopping promedian un ROAS de 4.52x frente a 3.70x de las campañas manuales equivalentes, según benchmarks de la industria en 2026.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
-    },
-    {
-      "num": "1994",
-      "title": "Todo empezó con un banner de 30.000 dólares",
-      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     }
   ],
   "memes": [
-    {
-      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
-      "emoji": "🧠",
-      "badge": "FASE DE APRENDIZAJE",
-      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
-      "art": "b"
-    },
-    {
-      "top": "Día 1 del mes: el CPM despierta",
-      "emoji": "☕",
-      "badge": "PRESUPUESTO",
-      "bottom": "Y decide subir \"porque sí\"",
-      "art": "c"
-    },
-    {
-      "top": "Meta lanza una actualización sin avisar",
-      "emoji": "🌀",
-      "badge": "LUNES 8:00 AM",
-      "bottom": "Todo el equipo de Ads, a la vez",
-      "art": "a"
-    },
     {
       "top": "Encuentras el anuncio ganador",
       "emoji": "🔁",
@@ -149,6 +130,27 @@
       "badge": "CPM +37%",
       "bottom": "El CPM: \"gracias por el aumento\"",
       "art": "a"
+    },
+    {
+      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
+      "emoji": "🧠",
+      "badge": "FASE DE APRENDIZAJE",
+      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
+      "art": "b"
+    },
+    {
+      "top": "Meta lanza una actualización sin avisar",
+      "emoji": "🌀",
+      "badge": "LUNES 8:00 AM",
+      "bottom": "Todo el equipo de Ads, a la vez",
+      "art": "a"
+    },
+    {
+      "top": "Día 1 del mes: el CPM despierta",
+      "emoji": "☕",
+      "badge": "PRESUPUESTO",
+      "bottom": "Y decide subir \"porque sí\"",
+      "art": "c"
     },
     {
       "top": "Advantage+ optimizando la campaña",
@@ -165,24 +167,24 @@
       "fuente": "Bloomberg Línea"
     },
     {
+      "titulo": "Meta enfrenta nuevas críticas por 332 anuncios de abuso sexual infantil en Facebook e Instagram - DiarioBitcoin",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3pCT2x5T0JnZHRIUlRoTm1nQzhNWC04T3ZRdEc0dmNvSzJRRHZwLWg3MWxDQms2RzRxekJQOHBSbnpCN2ZpMVhNcDU5TVRvLXI5WGhIUkxYSlp6WnM0TS1GQ2VBNFBVRzI0N0VycjFtdHh2SEdNeVBISWVKNXR5b3ZVakFxaHI3VUpyd3NZS3hPWHVjX0oxQ2xvYTVMalJtYTZISGJ2Z2NBdS1SNExTVWxVQmUtWmJCamtWUUMxQzVFVzdQY29qZGdkUmlYLU95MW5j?oc=5",
+      "fuente": "DiarioBitcoin"
+    },
+    {
+      "titulo": "Meta publicó cientos de anuncios con abuso sexual infantil creado por IA - Yahoo Finanzas",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUZuZGJzRklxYlhlN0JVN3UxaTRic21rYWs4RG12R0lYcHpWUnhPNVpkcE1MX29vS21OQ2pXZHdicTBwaWZ4YnZVX1RXMjF0bnAyTkViZEFnZjFLQmdGajJDdVJJSENYZktXSURWdEVFMWdJSnJORlV0Nmd1MWo4WnVMd1BzaFFfN05Wb2NwZzdESi1uUXM2V1AxMUQtZw?oc=5",
+      "fuente": "Yahoo Finanzas"
+    },
+    {
       "titulo": "Tendencias en Meta Ads 2026: qué debe dominar tu agencia - Cyberclick",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1VvYWtqbVlqX3JzQkFQWW1lRExsbk1MTmpKSkFoUlFHX0s4SUV4RmhDX2pOY3J5U0daSy1vWkt0QXdzQ3hON21BbTUtOXlUTHFPLVV0SWF3cWNhZ0VqNG1yNGlfMU84SGtpUERTaHZMeWpmWTZHZzdJQ3lHSUt1bW9FQlpNNG5yNTNvb094YXplWmFMSUHSAaYBQVVfeXFMT3pnRFlXc0RwS0dhRXl6NzhVQ0xUam84TnVyaUhtQ01QWmlrVHFLY0RES1g4eHY2aExRV0xHcmhxMGZBazlDeG9MOWQ4T1pEdDhIaXAtNkRNQjYwdmRnbUFyQzZjNHpvX1pVRHlQbVBhWDQ1NDZzbl9BN1dmM09TWFNiMUNYQlJ5R0tHUkVoVUZMcVlIbFotdTMwN1l4N2NxR1BoZG5FUQ?oc=5",
       "fuente": "Cyberclick"
     },
     {
-      "titulo": "Meta publicó cientos de anuncios con abuso sexual infantil creado por IA - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHZTOWtINHkxVDNQMGpVNW5OUHp2SlpTRmhlMTVZanhHU254RzN1cFhoN1BlUUFkSjF0dmppM2JDdmFpQjJTSFRHWW9NTFJrTDRlVFpUUVh1a0FCOEVadHJ5N1RVWlZ1a1MwWW51dEF6d0hQcFBmS1Uxdl8xZWh5am0zTGtZb1dpWHNFVnZfYktKdUNkUFhPeA?oc=5",
-      "fuente": "Yahoo"
-    },
-    {
       "titulo": "Nuevas funciones de Meta AI para pequeñas empresas - meta.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVnZrUHhJOWN5OS12Y01GdFFyX0NPeFFJaWFtM2p0OTRSSzZTZUdNSGxEYVFHb3ZvclNMZnY5Slp2WkN2Q25yMlN6aWtNc2hwZXQ1NHFjZEt4cTV6UmZPdE1vNG5CRG9Sd3YySWdzVDQxSDhOamZ6SVVzbEs5UlFvRmlxeFhBTUJjMG5Dc1BLWE9aVERt0gGaAUFVX3lxTFBwc09jRXdvMVVXcmk0Y2ZGaHprdkxXenVwYjdHVjhINGhuNExqX1hza3FkSDNGZFl1MWxFdmVlYXVrdXFJdFZ6TVZJX1hBV0dNdkdSM1NxRk9GQXFseThxLUJpUndUblNQaWMwd0hfUzZIVTFRcS1EN1J2RVppclpZMzBKX09uRUlZX0VONG05YmRHaW5RaF9MSVE?oc=5",
       "fuente": "meta.com"
-    },
-    {
-      "titulo": "Meta Platforms (META) Lleva Su IA Conversacional Al Centro Del Marketing Empresarial - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMlBveWx1YXk3ZHROOWV4aDJOaWxIRmhTVzhleFhTOW5tcHZTV1RhNVFBWGVXWXpVck11LVdtMWdyLWxaMXlETGc0cHJzYkJWdThlTUpnZVItSkMyMjVnQlR3ckQyMVJ5T3Q3WUJhVXVTaFlFNGZjNkhuSDZLMzRpX0hOMmRjaHB0OUE0TW9ZOGJQeEFfb0tpMlZ4SXMyUGJwdVFkWUF1bkNFSUxUbnd6QnNXa29uZXpVdGxHUV95QVhWa0h3dzZ6T1hvcXJpd9IB0wFBVV95cUxOM1U4eFZUZzUtN0ZCeWhUQ2MzT01Fb1JwZDYydURaanNnd09wY0tVd1AtVkNVM3hiLWxDMENqa2dBSWxvZzNxNTlxRVZQdFc5b1NrQWZ6dmc1alhsVTZHaE1TWjg1dnpPQjZfUG1HRURsbXV1anFGcjF3LVhGNExVLWpYblNuVXZyT0hWUU5ER2RJOHJjZE54d0xyMlc2WUZXZXY5U1JkR3FuS3YxWmtfaF9qSlQ4WUZBbWxwY2czZ0pCLTZMOVgtbWxMWDE1VlZKc3JR?oc=5",
-      "fuente": "simplywall.st"
     }
   ]
 }
