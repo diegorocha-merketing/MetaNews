@@ -1,23 +1,16 @@
 {
-  "actualizado": "2026-09-23 15:14 UTC",
+  "actualizado": "2026-09-25 15:40 UTC",
   "ticker": [
-    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
-    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
     "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
-    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
     "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
-    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
+    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
+    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
+    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
     "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
-    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026"
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
+    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales"
   ],
   "cifras": [
-    {
-      "num": "11.8M",
-      "title": "Millones de marcas compiten por tu atención",
-      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
-      "fuente": "WARC Media / adobo Magazine",
-      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
-    },
     {
       "num": "60/40",
       "title": "Facebook factura más, Instagram enamora más",
@@ -33,21 +26,21 @@
       "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
     },
     {
-      "num": "IA + Ads",
-      "title": "El negocio de anuncios financia la carrera de IA",
-      "text": "WARC Media describe un 'volante' donde los ingresos publicitarios financian la inversión en IA de Meta, que a su vez mejora el rendimiento de los anuncios y atrae más inversión publicitaria.",
+      "num": "$240B",
+      "title": "Meta apunta a 240.000 millones de dólares en 2026",
+      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
+    },
+    {
+      "num": "11.8M",
+      "title": "Millones de marcas compiten por tu atención",
+      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
       "fuente": "WARC Media / adobo Magazine",
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     }
   ],
   "historia": [
-    {
-      "num": "2007–2009",
-      "title": "Beacon: el experimento que casi hunde la confianza",
-      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
-      "fuente": "Wikipedia — Facebook Beacon",
-      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
-    },
     {
       "num": "44% CTR",
       "title": "El primer banner de la historia tuvo un CTR del 44%",
@@ -63,21 +56,21 @@
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
     {
-      "num": "2004 → hoy",
-      "title": "De banners universitarios a un imperio publicitario",
-      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
+      "num": "2004",
+      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
+      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales.",
       "fuente": "Historia de Facebook — Wikipedia",
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+    },
+    {
+      "num": "2007–2009",
+      "title": "Beacon: el experimento que casi hunde la confianza",
+      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
+      "fuente": "Wikipedia — Facebook Beacon",
+      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
     }
   ],
   "algoritmo": [
-    {
-      "num": "3–8seg",
-      "title": "El gancho se decide en los primeros segundos",
-      "text": "Bajo el sistema actual, el 'hook rate' —el porcentaje de personas que sigue viendo un video pasados los primeros segundos— es el indicador que más predice si un anuncio en video va a funcionar.",
-      "fuente": "The Interconnections",
-      "url": "https://www.theinterconnections.com/blog/meta-ads-2026"
-    },
     {
       "num": "Advantage+",
       "title": "La automatización dejó de ser opcional",
@@ -91,9 +84,21 @@
       "text": "Desde finales de 2024, Meta despliega 'Andromeda', un motor de recuperación de anuncios con 10.000 veces más capacidad de modelo que su predecesor. Para 2026 corre en la totalidad de las cuentas de Facebook e Instagram.",
       "fuente": "Common Thread Collective",
       "url": "https://commonthreadco.com/blogs/coachs-corner/meta-andromeda-roas-creative-strategy-2026"
+    },
+    {
+      "num": "25/semana",
+      "title": "El umbral de conversiones bajó en 2026",
+      "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
+      "fuente": "Benly",
+      "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
     }
   ],
   "curiosidades": [
+    {
+      "num": "∞ variantes",
+      "title": "Un anuncio nunca se ve igual dos veces",
+      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
+    },
     {
       "num": "4.52x vs 3.70x",
       "title": "Las campañas automáticas rinden ~22% más",
@@ -102,26 +107,14 @@
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
     },
     {
-      "num": "∞ variantes",
-      "title": "Un anuncio nunca se ve igual dos veces",
-      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
-    },
-    {
-      "num": "1994",
-      "title": "Todo empezó con un banner de 30.000 dólares",
-      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
+      "num": "$125–145B",
+      "title": "Invierte en IA más que el PIB de países enteros",
+      "text": "Meta anunció planes para destinar entre 125.000 y 145.000 millones de dólares a infraestructura de inteligencia artificial: la misma tecnología que hoy decide qué anuncio ves.",
+      "fuente": "MediaNews4u",
+      "url": "https://www.medianews4u.com/meta-to-earn-240bn-from-advertising-in-2026-outpacing-global-social-media-ad-growth-warc/"
     }
   ],
   "memes": [
-    {
-      "top": "Encuentras el anuncio ganador",
-      "emoji": "🔁",
-      "badge": "DUPLICAR",
-      "bottom": "Lo duplicas 6 veces antes de dormir",
-      "art": "c"
-    },
     {
       "top": "Meta lanza una actualización sin avisar",
       "emoji": "🌀",
@@ -137,6 +130,20 @@
       "art": "b"
     },
     {
+      "top": "Yo subiendo el presupuesto $10 al día",
+      "emoji": "📈",
+      "badge": "CPM +37%",
+      "bottom": "El CPM: \"gracias por el aumento\"",
+      "art": "a"
+    },
+    {
+      "top": "Encuentras el anuncio ganador",
+      "emoji": "🔁",
+      "badge": "DUPLICAR",
+      "bottom": "Lo duplicas 6 veces antes de dormir",
+      "art": "c"
+    },
+    {
       "top": "Día 1 del mes: el CPM despierta",
       "emoji": "☕",
       "badge": "PRESUPUESTO",
@@ -149,30 +156,18 @@
       "badge": "AUTO-PILOTO",
       "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
       "art": "b"
-    },
-    {
-      "top": "Yo subiendo el presupuesto $10 al día",
-      "emoji": "📈",
-      "badge": "CPM +37%",
-      "bottom": "El CPM: \"gracias por el aumento\"",
-      "art": "a"
     }
   ],
   "noticias": [
     {
-      "titulo": "Tendencias de Social Ads 2026: Qué Dicen los Datos de Meta y TikTok - Metricool",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sSWtQTEh4WFZnX21mcVl4YjBXZ2V0dTNqdTY2dGZnaTk2UW1DY29xd2R2eUhEUWtacmNxVWYycjcyUC0xVEhOMWZmNDhFVGRYTDVJV1dVUnFvSFU?oc=5",
-      "fuente": "Metricool"
+      "titulo": "Meta reúne el flujo de anuncios de creadores en un hub - quasa.io",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0dtbFY4WE5icjJSdmV5Vnk2U3lqWmFnVm9ZRV9aV0FDWjkzWlZQVjJNdWprdTdHclpwZWEwam9idDZrRUxqNkxRbEZma0N0VF9QeEF5QkRzdnpSZl85azZvbFBjeWFWZzJzMnJEd1RrN0REMGhMUi1UelU5OU5FcjljX0ZydzVKaGkwQW1UOVlOenA2T09jNw?oc=5",
+      "fuente": "quasa.io"
     },
     {
-      "titulo": "Qué es Meta Blueprint y cómo funciona - TreceBits",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80aW9SM1Z4LUt1Y0U3Znh0SGhIU200VHZHeEMtRHJRYTFlSDNoNnBXT1BGMHozS3pLbnJfV2ViejJDMW55ejlPLWdBLXlNRUhOTjFOVkM2d3RheUprS0NHOFpqZ1dkVXlSQ3J3N0xhUQ?oc=5",
-      "fuente": "TreceBits"
-    },
-    {
-      "titulo": "TikTok reduce el coste publicitario frente a Meta - ecommerce-news.es",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3B5bDZwMHRaTjdWY0FMMnpJZjdPWkJoS2xIWDVfczhQTFdCTDBIQVE3N2dWei1Sd2haMHkxVlhRSW9FYzMxVTZkV1dFWXBrdVNLZUtHbWxSaUZrMkJxdTBjQ2ZkeHNxdE1BUEFNMXQyMGVveExuOVpJQ3k0UF94bm5R?oc=5",
-      "fuente": "ecommerce-news.es"
+      "titulo": "Nuevas funciones de Meta AI para pequeñas empresas - meta.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVnZrUHhJOWN5OS12Y01GdFFyX0NPeFFJaWFtM2p0OTRSSzZTZUdNSGxEYVFHb3ZvclNMZnY5Slp2WkN2Q25yMlN6aWtNc2hwZXQ1NHFjZEt4cTV6UmZPdE1vNG5CRG9Sd3YySWdzVDQxSDhOamZ6SVVzbEs5UlFvRmlxeFhBTUJjMG5Dc1BLWE9aVERt0gGaAUFVX3lxTFBwc09jRXdvMVVXcmk0Y2ZGaHprdkxXenVwYjdHVjhINGhuNExqX1hza3FkSDNGZFl1MWxFdmVlYXVrdXFJdFZ6TVZJX1hBV0dNdkdSM1NxRk9GQXFseThxLUJpUndUblNQaWMwd0hfUzZIVTFRcS1EN1J2RVppclpZMzBKX09uRUlZX0VONG05YmRHaW5RaF9MSVE?oc=5",
+      "fuente": "meta.com"
     },
     {
       "titulo": "ONG acusa a Meta de publicar 332 anuncios con material de abuso sexual infantil - Bloomberg Línea",
@@ -180,9 +175,14 @@
       "fuente": "Bloomberg Línea"
     },
     {
-      "titulo": "TikTok gana a Meta en CPC, CPL y CPM, según Metricool - Marketing4eCommerce",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT3FzZTd1bUhzWmZySVFDMmE5VHQwSm1ydU1KUHEtcmFoUjlydmNEczhSVmItM3gzbzhNUlhfSDlFd2xUcmJnZ1l6S1k3VTgtT04tRHNQOXg1cWd5MkV0ZEFzbjI1RWViajVBUGFXRkRSMmhVSWh4SUJUdVdfbWtBeGh3b0lsZHkzYk1xSDV1NVFyRWRRYUhKc3pHUTFWZ2wwMG8xUGppRHU4WExoaEh2aHpYTUdoX0FfTG5NSUVn?oc=5",
-      "fuente": "Marketing4eCommerce"
+      "titulo": "Meta Andrómeda: cómo rediseñar tu estrategia creativa para el nuevo sistema de entrega de anuncios - Cyberclick",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmlHei1JLVVKS0RMX1FSYWdZMnI0d05keHBVX0tHMUxLeWxKSnQ3Tko1OHZVbnc4NXBua3NxcGhpZHJmTUpscERuZThjVGZWWjJRQTRBbWxPNER0LUtpYlEtS0x1a1ZyUFg2ajRMSWpMMlhteEphd0NlSUU2amZwSE12a2dvTHhOWTBvSlczYVJGOTdGSG01X9IBqAFBVV95cUxQWmV0S3BfVE5PY2lhWjRnX3ZLdVViMHNBbWcxTnJPbXdualRJVWpacklIenB2Rk1uTWVpcjRKTnl0TmpfMTNVeHVhdjhSTmVfMWR5cnBMaURhanFHQXo3TW9odGNid3JPcHFFZlBhMi1EZnI5XzFSLUhUb3Y2MFd1c25rYWZSMjNiVVB6bnFhU1hPWnlBZTlodXhaQ0JFVlFVUlFfN1ViOHE?oc=5",
+      "fuente": "Cyberclick"
+    },
+    {
+      "titulo": "Qué es Meta Blueprint y cómo funciona - TreceBits",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80aW9SM1Z4LUt1Y0U3Znh0SGhIU200VHZHeEMtRHJRYTFlSDNoNnBXT1BGMHozS3pLbnJfV2ViejJDMW55ejlPLWdBLXlNRUhOTjFOVkM2d3RheUprS0NHOFpqZ1dkVXlSQ3J3N0xhUQ?oc=5",
+      "fuente": "TreceBits"
     }
   ]
 }
