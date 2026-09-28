@@ -1,20 +1,27 @@
 {
-  "actualizado": "2026-09-27 15:27 UTC",
+  "actualizado": "2026-09-28 18:18 UTC",
   "ticker": [
-    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
-    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
     "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
-    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
-    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
     "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
-    "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
-    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>"
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
+    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
+    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
+    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
+    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
+    "En 2012 nacieron los Públicos Personalizados en Facebook Ads"
   ],
   "cifras": [
     {
-      "num": "60/40",
-      "title": "Facebook factura más, Instagram enamora más",
-      "text": "Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante, según WARC Media.",
+      "num": "+33%",
+      "title": "Gana más mostrando el mismo anuncio",
+      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
+      "fuente": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
+    },
+    {
+      "num": "$240B",
+      "title": "Meta apunta a 240.000 millones de dólares en 2026",
+      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.",
       "fuente": "WARC Media / adobo Magazine",
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
@@ -31,22 +38,22 @@
       "text": "Meta reporta más de 3.500 millones de usuarios diarios combinados entre sus aplicaciones: Facebook, Instagram, WhatsApp y Messenger.",
       "fuente": "MarketingReport",
       "url": "https://marketingreport.one/news/meta-to-earn-240bn-from-advertising-in-2026.html"
-    },
-    {
-      "num": "$240B",
-      "title": "Meta apunta a 240.000 millones de dólares en 2026",
-      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.",
-      "fuente": "WARC Media / adobo Magazine",
-      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     }
   ],
   "historia": [
     {
-      "num": "44% CTR",
-      "title": "El primer banner de la historia tuvo un CTR del 44%",
-      "text": "En 1994, AT&T pagó 30.000 dólares por el primer banner clicable de internet, publicado en HotWired.com. Obtuvo un 44% de clics — una cifra hoy prácticamente imposible.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
+      "fuente": "Historia de Facebook — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+    },
+    {
+      "num": "2004",
+      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
+      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales.",
+      "fuente": "Historia de Facebook — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
     {
       "num": "2004 → hoy",
@@ -61,23 +68,9 @@
       "text": "En 2012 Facebook lanzó Custom Audiences, la función que permitió a las marcas subir sus propias bases de datos de clientes para encontrarlos en la plataforma.",
       "fuente": "Jon Loomer Digital",
       "url": "https://www.jonloomer.com/facebook-ads-custom-audiences-guide/"
-    },
-    {
-      "num": "2004",
-      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
-      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales.",
-      "fuente": "Historia de Facebook — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     }
   ],
   "algoritmo": [
-    {
-      "num": "Advantage+",
-      "title": "La automatización dejó de ser opcional",
-      "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta la creatividad de sus campañas a los sistemas automatizados de Meta, en vez de configurarlos manualmente.",
-      "fuente": "AdAmigo",
-      "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
-    },
     {
       "num": "IA generativa",
       "title": "El algoritmo también genera los anuncios",
@@ -89,16 +82,16 @@
       "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
       "fuente": "Benly",
       "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
+    },
+    {
+      "num": "10.000x",
+      "title": "El motor detrás del feed se llama Andromeda",
+      "text": "Desde finales de 2024, Meta despliega 'Andromeda', un motor de recuperación de anuncios con 10.000 veces más capacidad de modelo que su predecesor. Para 2026 corre en la totalidad de las cuentas de Facebook e Instagram.",
+      "fuente": "Common Thread Collective",
+      "url": "https://commonthreadco.com/blogs/coachs-corner/meta-andromeda-roas-creative-strategy-2026"
     }
   ],
   "curiosidades": [
-    {
-      "num": "1994",
-      "title": "Todo empezó con un banner de 30.000 dólares",
-      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
-    },
     {
       "num": "$125–145B",
       "title": "Invierte en IA más que el PIB de países enteros",
@@ -107,17 +100,33 @@
       "url": "https://www.medianews4u.com/meta-to-earn-240bn-from-advertising-in-2026-outpacing-global-social-media-ad-growth-warc/"
     },
     {
-      "num": "∞ variantes",
-      "title": "Un anuncio nunca se ve igual dos veces",
-      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
+      "num": "4.52x vs 3.70x",
+      "title": "Las campañas automáticas rinden ~22% más",
+      "text": "Las campañas Advantage+ Shopping promedian un ROAS de 4.52x frente a 3.70x de las campañas manuales equivalentes, según benchmarks de la industria en 2026.",
+      "fuente": "AdAmigo",
+      "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
+    },
+    {
+      "num": "1994",
+      "title": "Todo empezó con un banner de 30.000 dólares",
+      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
+      "fuente": "Digiday",
+      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     }
   ],
   "memes": [
     {
-      "top": "Meta lanza una actualización sin avisar",
-      "emoji": "🌀",
-      "badge": "LUNES 8:00 AM",
-      "bottom": "Todo el equipo de Ads, a la vez",
+      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
+      "emoji": "🧠",
+      "badge": "FASE DE APRENDIZAJE",
+      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
+      "art": "b"
+    },
+    {
+      "top": "Yo subiendo el presupuesto $10 al día",
+      "emoji": "📈",
+      "badge": "CPM +37%",
+      "bottom": "El CPM: \"gracias por el aumento\"",
       "art": "a"
     },
     {
@@ -135,13 +144,6 @@
       "art": "b"
     },
     {
-      "top": "Yo subiendo el presupuesto $10 al día",
-      "emoji": "📈",
-      "badge": "CPM +37%",
-      "bottom": "El CPM: \"gracias por el aumento\"",
-      "art": "a"
-    },
-    {
       "top": "Encuentras el anuncio ganador",
       "emoji": "🔁",
       "badge": "DUPLICAR",
@@ -149,23 +151,23 @@
       "art": "c"
     },
     {
-      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
-      "emoji": "🧠",
-      "badge": "FASE DE APRENDIZAJE",
-      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
-      "art": "b"
+      "top": "Meta lanza una actualización sin avisar",
+      "emoji": "🌀",
+      "badge": "LUNES 8:00 AM",
+      "bottom": "Todo el equipo de Ads, a la vez",
+      "art": "a"
     }
   ],
   "noticias": [
     {
-      "titulo": "YouTube, Meta Restore Ads for ‘Musk’ Documentary: ‘This Was an Error’ - IMDb",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52Y3VFRHF6aGUzN1ZERFg0eGZhSG5SbWdnVDNocnF0MHVCY3Z4b0ZEcmlnTktjMkl5NUxLUFJyYzFhRC1RX2FGZzZrbzNOSGw0UE1KWWZqd3UxWS1XWkdGUWtUbmVjZWpxcTUwWlR3?oc=5",
-      "fuente": "IMDb"
+      "titulo": "TikTok pone contra las cuerdas a Meta en eficiencia publicitaria: cuesta menos y funciona mejor - MarketingDirecto",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUlUX2tZQlpRQXF4d2puNHhwZUk5QWZwTkF0YXgyMWJZZEx4V3E0cHc5c0R1RnRFUHBrdHppd2RnUzhtNHd4WGdMaV94bksta04waDZPNTh2bEgtMk1tTmNhWDRHYTVDUGJ1RTd4WWxCVU5lREtZT092WlpVNUJaOVhXdmJnVFBpWGVhWkx3dnZNclUxY1Nld2p4LTRiS2RfM2g2c1htM3ExR1BtQlJQeEhJS3jSAboBQVVfeXFMTjJEbDJCbWhxbDZOaXNpdEtOeTZkXzBUZUZuZTB1Q3c2Y0VpLVIxLVJYRVg3ZFZhWS1KcW5yMlNvd2E2SnNWVG0tOGxnaFJUYlIxUEFvTjhuVTVON01YRFpBRk1FdVZFSDdBT0VnbDBYMUJMWDFzZ2lsRUN1a1R6THZaVEVadVI5cUpGcnktX256TGozaloyWWFOQ1AyUjRuMWhKTGo2eFg3dVRJRGgwSEFUa2VTWm80VTd3?oc=5",
+      "fuente": "MarketingDirecto"
     },
     {
-      "titulo": "Meta reúne el flujo de anuncios de creadores en un hub - quasa.io",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0dtbFY4WE5icjJSdmV5Vnk2U3lqWmFnVm9ZRV9aV0FDWjkzWlZQVjJNdWprdTdHclpwZWEwam9idDZrRUxqNkxRbEZma0N0VF9QeEF5QkRzdnpSZl85azZvbFBjeWFWZzJzMnJEd1RrN0REMGhMUi1UelU5OU5FcjljX0ZydzVKaGkwQW1UOVlOenA2T09jNw?oc=5",
-      "fuente": "quasa.io"
+      "titulo": "Los costes publicitarios en Meta suben mientras TikTok gana terreno en el mercado global - puromarketing.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5wai1GOVZSSVZMUmUwVmxYWUMzS043LWtodWFpU2Nlc3U5XzYzODNSVXBOSEtMeXBQbC1wNFBGd1BrUFg1bnA3YUNjVHRkM2dNVEZqYXRHU2h4THVWcWNPNDFZZWEzbHh3MVJxbW1lNTFKaEpLdDh2WlRmYWg5TGQ1SGoyNkt6U1hidmg4a3lWQk5HazVxdjAtYlJnN0VFc0t2dHVpVUhTXzFfQllIYXpIVkkzQQ?oc=5",
+      "fuente": "puromarketing.com"
     },
     {
       "titulo": "Nuevas funciones de Meta AI para pequeñas empresas - meta.com",
@@ -173,14 +175,14 @@
       "fuente": "meta.com"
     },
     {
+      "titulo": "Meta reúne el flujo de anuncios de creadores en un hub - quasa.io",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0dtbFY4WE5icjJSdmV5Vnk2U3lqWmFnVm9ZRV9aV0FDWjkzWlZQVjJNdWprdTdHclpwZWEwam9idDZrRUxqNkxRbEZma0N0VF9QeEF5QkRzdnpSZl85azZvbFBjeWFWZzJzMnJEd1RrN0REMGhMUi1UelU5OU5FcjljX0ZydzVKaGkwQW1UOVlOenA2T09jNw?oc=5",
+      "fuente": "quasa.io"
+    },
+    {
       "titulo": "ONG acusa a Meta de publicar 332 anuncios con material de abuso sexual infantil - Bloomberg Línea",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHB3NzNZQ3dNWkNRSWExbVE3Z2Vmd1M1VzJrSEtVX1FxTW5RaWNoaVZnX3VfcmJ4el84MTIxOVZBazg0aFZBZDA3eGFkUE4xZHRFNUxrbUJnVzV0R05KajZINmlPVGRCTWJMY0hoUFdJV0JRU2dyNVlEMDQ2TzdCTHFxV1Jwck9oTXYxZFdnNTg0MGxiLUJoYXpXUE83TXQ3dTNENWlBTHR5d05hTG1jTGN3dV9uLWNGQzk0d9IB0AFBVV95cUxOQTJBckpOaWhfQmVPLUZBRUllMEozeGxkSjJIOG9kQ3FHbUNDT1prOVZqMnYzZzlqV21kdjlRQ1QtS1hoek5EYU03Tm01c2F5MUlVcWZhNjlyYlBmYmNIeFpPR0NqeEN6S2tZQWVuTWQ5eFR2RGlQTXZvN0lJaTRFWlVHaDdUUnMzRkJISVRrZnlvVVpCckRaTzdlRkhHV1c0OHNIQVBabmZvS0h1ZnRGWVk2ZnExTjBpelNWVkJreWNqSzhQS1Nuc3owamE2U0Qx?oc=5",
       "fuente": "Bloomberg Línea"
-    },
-    {
-      "titulo": "Meta Andrómeda: cómo rediseñar tu estrategia creativa para el nuevo sistema de entrega de anuncios - Cyberclick",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmlHei1JLVVKS0RMX1FSYWdZMnI0d05keHBVX0tHMUxLeWxKSnQ3Tko1OHZVbnc4NXBua3NxcGhpZHJmTUpscERuZThjVGZWWjJRQTRBbWxPNER0LUtpYlEtS0x1a1ZyUFg2ajRMSWpMMlhteEphd0NlSUU2amZwSE12a2dvTHhOWTBvSlczYVJGOTdGSG01X9IBqAFBVV95cUxQWmV0S3BfVE5PY2lhWjRnX3ZLdVViMHNBbWcxTnJPbXdualRJVWpacklIenB2Rk1uTWVpcjRKTnl0TmpfMTNVeHVhdjhSTmVfMWR5cnBMaURhanFHQXo3TW9odGNid3JPcHFFZlBhMi1EZnI5XzFSLUhUb3Y2MFd1c25rYWZSMjNiVVB6bnFhU1hPWnlBZTlodXhaQ0JFVlFVUlFfN1ViOHE?oc=5",
-      "fuente": "Cyberclick"
     }
   ]
 }
