@@ -1,30 +1,16 @@
 {
-  "actualizado": "2026-09-28 18:18 UTC",
+  "actualizado": "2026-09-29 16:41 UTC",
   "ticker": [
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
+    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
     "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
     "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
-    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
-    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
     "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
-    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
-    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
-    "En 2012 nacieron los Públicos Personalizados en Facebook Ads"
+    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
+    "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
+    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>"
   ],
   "cifras": [
-    {
-      "num": "+33%",
-      "title": "Gana más mostrando el mismo anuncio",
-      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
-      "fuente": "MediaPost",
-      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
-    },
-    {
-      "num": "$240B",
-      "title": "Meta apunta a 240.000 millones de dólares en 2026",
-      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.",
-      "fuente": "WARC Media / adobo Magazine",
-      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
-    },
     {
       "num": "IA + Ads",
       "title": "El negocio de anuncios financia la carrera de IA",
@@ -33,32 +19,39 @@
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
+      "num": "+33%",
+      "title": "Gana más mostrando el mismo anuncio",
+      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
+      "fuente": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
+    },
+    {
       "num": "3.5B+",
       "title": "Más de 3.500 millones de personas al día",
       "text": "Meta reporta más de 3.500 millones de usuarios diarios combinados entre sus aplicaciones: Facebook, Instagram, WhatsApp y Messenger.",
       "fuente": "MarketingReport",
       "url": "https://marketingreport.one/news/meta-to-earn-240bn-from-advertising-in-2026.html"
+    },
+    {
+      "num": "$240B",
+      "title": "Meta apunta a 240.000 millones de dólares en 2026",
+      "text": "Según las proyecciones de WARC Media, los ingresos publicitarios de Meta podrían alcanzar los 240.000 millones de dólares este año, un salto del 22,3% frente a 2025.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     }
   ],
   "historia": [
     {
-      "num": "$5 ≈ 1.000",
-      "title": "Con 5 dólares llegabas a mil personas",
-      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
-      "fuente": "Historia de Facebook — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
-    },
-    {
-      "num": "2004",
-      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
-      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales.",
-      "fuente": "Historia de Facebook — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
-    },
-    {
       "num": "2004 → hoy",
       "title": "De banners universitarios a un imperio publicitario",
       "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
+      "fuente": "Historia de Facebook — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+    },
+    {
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
       "fuente": "Historia de Facebook — Wikipedia",
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
@@ -68,6 +61,13 @@
       "text": "En 2012 Facebook lanzó Custom Audiences, la función que permitió a las marcas subir sus propias bases de datos de clientes para encontrarlos en la plataforma.",
       "fuente": "Jon Loomer Digital",
       "url": "https://www.jonloomer.com/facebook-ads-custom-audiences-guide/"
+    },
+    {
+      "num": "2004",
+      "title": "El primer anuncio de Facebook costaba 10 dólares al día",
+      "text": "Corría 2004 y la red aún vivía dentro de Harvard. Los primeros anuncios se llamaban 'Flyers': banners simples para negocios locales.",
+      "fuente": "Historia de Facebook — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     }
   ],
   "algoritmo": [
@@ -77,21 +77,28 @@
       "text": "Las herramientas de generación de imagen y texto integradas en Meta Ads permiten crear variaciones de un mismo anuncio automáticamente, algo impensado hace pocos años."
     },
     {
-      "num": "25/semana",
-      "title": "El umbral de conversiones bajó en 2026",
-      "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
-      "fuente": "Benly",
-      "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
-    },
-    {
       "num": "10.000x",
       "title": "El motor detrás del feed se llama Andromeda",
       "text": "Desde finales de 2024, Meta despliega 'Andromeda', un motor de recuperación de anuncios con 10.000 veces más capacidad de modelo que su predecesor. Para 2026 corre en la totalidad de las cuentas de Facebook e Instagram.",
       "fuente": "Common Thread Collective",
       "url": "https://commonthreadco.com/blogs/coachs-corner/meta-andromeda-roas-creative-strategy-2026"
+    },
+    {
+      "num": "25/semana",
+      "title": "El umbral de conversiones bajó en 2026",
+      "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
+      "fuente": "Benly",
+      "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
     }
   ],
   "curiosidades": [
+    {
+      "num": "1994",
+      "title": "Todo empezó con un banner de 30.000 dólares",
+      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
+      "fuente": "Digiday",
+      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
+    },
     {
       "num": "$125–145B",
       "title": "Invierte en IA más que el PIB de países enteros",
@@ -105,30 +112,9 @@
       "text": "Las campañas Advantage+ Shopping promedian un ROAS de 4.52x frente a 3.70x de las campañas manuales equivalentes, según benchmarks de la industria en 2026.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
-    },
-    {
-      "num": "1994",
-      "title": "Todo empezó con un banner de 30.000 dólares",
-      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     }
   ],
   "memes": [
-    {
-      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
-      "emoji": "🧠",
-      "badge": "FASE DE APRENDIZAJE",
-      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
-      "art": "b"
-    },
-    {
-      "top": "Yo subiendo el presupuesto $10 al día",
-      "emoji": "📈",
-      "badge": "CPM +37%",
-      "bottom": "El CPM: \"gracias por el aumento\"",
-      "art": "a"
-    },
     {
       "top": "Día 1 del mes: el CPM despierta",
       "emoji": "☕",
@@ -137,11 +123,25 @@
       "art": "c"
     },
     {
+      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
+      "emoji": "🧠",
+      "badge": "FASE DE APRENDIZAJE",
+      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
+      "art": "b"
+    },
+    {
       "top": "Advantage+ optimizando la campaña",
       "emoji": "🤖",
       "badge": "AUTO-PILOTO",
       "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
       "art": "b"
+    },
+    {
+      "top": "Yo subiendo el presupuesto $10 al día",
+      "emoji": "📈",
+      "badge": "CPM +37%",
+      "bottom": "El CPM: \"gracias por el aumento\"",
+      "art": "a"
     },
     {
       "top": "Encuentras el anuncio ganador",
@@ -165,9 +165,9 @@
       "fuente": "MarketingDirecto"
     },
     {
-      "titulo": "Los costes publicitarios en Meta suben mientras TikTok gana terreno en el mercado global - puromarketing.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5wai1GOVZSSVZMUmUwVmxYWUMzS043LWtodWFpU2Nlc3U5XzYzODNSVXBOSEtMeXBQbC1wNFBGd1BrUFg1bnA3YUNjVHRkM2dNVEZqYXRHU2h4THVWcWNPNDFZZWEzbHh3MVJxbW1lNTFKaEpLdDh2WlRmYWg5TGQ1SGoyNkt6U1hidmg4a3lWQk5HazVxdjAtYlJnN0VFc0t2dHVpVUhTXzFfQllIYXpIVkkzQQ?oc=5",
-      "fuente": "puromarketing.com"
+      "titulo": "Los CMO en México consiguen mayor retorno en Meta: las campañas generan 8.88 dólares por cada dólar invertido - Revista Merca2.0",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdm83bC11YnFTZTBHdjZzNHZoOVVFaVZ3enV2SHEzU0oxZkNHNDFOM09JNnpoVlhJaGpVMnU1NllxMWc1MFA5SEtvcVFubGx1anYzZTFBUnREd1NzX2ZTRW9yZkNYOU5PeXc0dmV4THI0VUowQUJFV1B4dlZQVEthWkl0c3pkdHZEakw5ckROcmZxVFNieWFmaXR2VUlzMVNlU3ljcWlhWmN0d1pxODB0YTlkRDZQU1RMNkhvNHJ1NkZ5dTRfb2hOV0RTT2ljZw?oc=5",
+      "fuente": "Revista Merca2.0"
     },
     {
       "titulo": "Nuevas funciones de Meta AI para pequeñas empresas - meta.com",
