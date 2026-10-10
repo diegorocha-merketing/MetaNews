@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-10-09 17:14 UTC",
+  "actualizado": "2026-10-10 16:01 UTC",
   "ticker": [
+    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
     "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
+    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
+    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
     "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
     "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
-    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
-    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
-    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
-    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
-    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA"
+    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
+    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad"
   ],
   "cifras": [
     {
@@ -19,11 +19,11 @@
       "url": "https://marketingreport.one/news/meta-to-earn-240bn-from-advertising-in-2026.html"
     },
     {
-      "num": "+33%",
-      "title": "Gana más mostrando el mismo anuncio",
-      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
-      "fuente": "MediaPost",
-      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
+      "num": "60/40",
+      "title": "Facebook factura más, Instagram enamora más",
+      "text": "Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante, según WARC Media.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
       "num": "11.8M",
@@ -33,11 +33,11 @@
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
-      "num": "60/40",
-      "title": "Facebook factura más, Instagram enamora más",
-      "text": "Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante, según WARC Media.",
-      "fuente": "WARC Media / adobo Magazine",
-      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
+      "num": "+33%",
+      "title": "Gana más mostrando el mismo anuncio",
+      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
+      "fuente": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
     }
   ],
   "historia": [
@@ -49,11 +49,11 @@
       "url": "https://www.jonloomer.com/facebook-ads-custom-audiences-guide/"
     },
     {
-      "num": "$5 ≈ 1.000",
-      "title": "Con 5 dólares llegabas a mil personas",
-      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
-      "fuente": "Historia de Facebook — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+      "num": "44% CTR",
+      "title": "El primer banner de la historia tuvo un CTR del 44%",
+      "text": "En 1994, AT&T pagó 30.000 dólares por el primer banner clicable de internet, publicado en HotWired.com. Obtuvo un 44% de clics — una cifra hoy prácticamente imposible.",
+      "fuente": "Digiday",
+      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     },
     {
       "num": "2007–2009",
@@ -63,11 +63,11 @@
       "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
     },
     {
-      "num": "44% CTR",
-      "title": "El primer banner de la historia tuvo un CTR del 44%",
-      "text": "En 1994, AT&T pagó 30.000 dólares por el primer banner clicable de internet, publicado en HotWired.com. Obtuvo un 44% de clics — una cifra hoy prácticamente imposible.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
+      "fuente": "Historia de Facebook — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     }
   ],
   "algoritmo": [
@@ -77,11 +77,11 @@
       "text": "Las herramientas de generación de imagen y texto integradas en Meta Ads permiten crear variaciones de un mismo anuncio automáticamente, algo impensado hace pocos años."
     },
     {
-      "num": "10.000x",
-      "title": "El motor detrás del feed se llama Andromeda",
-      "text": "Desde finales de 2024, Meta despliega 'Andromeda', un motor de recuperación de anuncios con 10.000 veces más capacidad de modelo que su predecesor. Para 2026 corre en la totalidad de las cuentas de Facebook e Instagram.",
-      "fuente": "Common Thread Collective",
-      "url": "https://commonthreadco.com/blogs/coachs-corner/meta-andromeda-roas-creative-strategy-2026"
+      "num": "Advantage+",
+      "title": "La automatización dejó de ser opcional",
+      "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta la creatividad de sus campañas a los sistemas automatizados de Meta, en vez de configurarlos manualmente.",
+      "fuente": "AdAmigo",
+      "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
     },
     {
       "num": "3–8seg",
@@ -93,9 +93,11 @@
   ],
   "curiosidades": [
     {
-      "num": "∞ variantes",
-      "title": "Un anuncio nunca se ve igual dos veces",
-      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
+      "num": "1994",
+      "title": "Todo empezó con un banner de 30.000 dólares",
+      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
+      "fuente": "Digiday",
+      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     },
     {
       "num": "4.52x vs 3.70x",
@@ -105,11 +107,9 @@
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
     },
     {
-      "num": "1994",
-      "title": "Todo empezó con un banner de 30.000 dólares",
-      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
+      "num": "∞ variantes",
+      "title": "Un anuncio nunca se ve igual dos veces",
+      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
     }
   ],
   "memes": [
@@ -121,11 +121,11 @@
       "art": "b"
     },
     {
-      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
-      "emoji": "🧠",
-      "badge": "FASE DE APRENDIZAJE",
-      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
-      "art": "b"
+      "top": "Meta lanza una actualización sin avisar",
+      "emoji": "🌀",
+      "badge": "LUNES 8:00 AM",
+      "bottom": "Todo el equipo de Ads, a la vez",
+      "art": "a"
     },
     {
       "top": "Encuentras el anuncio ganador",
@@ -135,11 +135,11 @@
       "art": "c"
     },
     {
-      "top": "Meta lanza una actualización sin avisar",
-      "emoji": "🌀",
-      "badge": "LUNES 8:00 AM",
-      "bottom": "Todo el equipo de Ads, a la vez",
-      "art": "a"
+      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
+      "emoji": "🧠",
+      "badge": "FASE DE APRENDIZAJE",
+      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
+      "art": "b"
     },
     {
       "top": "Yo subiendo el presupuesto $10 al día",
@@ -163,8 +163,8 @@
       "fuente": "Bloomberg Línea"
     },
     {
-      "titulo": "Meta bans TikTok ads on its platforms in US - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTNuRzFOZ0V5LTB0MWdOWklESlcwVHl2cnkyeHpBRnNWZW9VcHhSbWRPOXZmYUFkX1lJV3pjUlFaMGZwX1pvWlFXOFFhZ29aeW91UUJ5djd6eDJwbzMxemxvSG1SWF8xaDRLbk82dmxXYUNmcmMySTVTSVZFT0xMcmN4TWdIc2xwdmhtNEVPaGVqdFJyV0I3Tzdqa25GbGk3MHNMN2FuY19yWFhyX25GcU9n?oc=5",
+      "titulo": "Bambuser (BUSER) Becomes Meta Live Video Ads Partner - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlhiSUpEUTNYcnU0cFo5S3FBT19pZXJpSmRveGtjMENHb1Npc2drRWdQTmwtWVdTci05aGx1bW9HTmJldGxPc2ZtRFA1NTF2Qjh4TUFxcWgycENBeG14c1ZNUk0wNmRaSGtUaENyd3VUaEp3S2pyWWppZXJtWHV4MjhUT2RWRWluV2ZRR25DVlBQUmJiY2dBN3lUUG5HQzZBZjgxaGJiOWY0N3VOX09RZg?oc=5",
       "fuente": "TradingView"
     },
     {
@@ -173,9 +173,9 @@
       "fuente": "Facebook"
     },
     {
-      "titulo": "Meta veta anuncios de ByteDance y campañas que enlazan a TikTok en siete países - https://fomoera.com/",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GTEJKWTFxN3JnT3NyVS1uOV9vOXJidTlhNEZqWXJ2aldXMW1kc0tscGdET2ZhTFliQWlBNWV4QkduNlVqQVZkMVl0Q2tJT2x2bHR6LWQyMmMwcndEM2xybXpTYXJvMGM?oc=5",
-      "fuente": "https://fomoera.com/"
+      "titulo": "Meta cierra la puerta a TikTok y bloquea sus anuncios en Facebook e Instagram en siete países - La Opinión",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMFR1My1UREhqd1dXdkJScmRQeGFjVmJLOWhWQ1E1WUo2UkVWSEU2djAxTElPVHkxVWllU0ItSlR2WFlSUi1Rc0QzYzlmaW9pNXNKUDNMcW5Dd2JwY3FCSzM0VFZ3SWRYVVpLd2NFMVM1bmdhUllITUxvb3lXQ242RVA4TzRENFFuRnhYWk5QZnIzcTVUcXhyOVEwRFE0bzNXVjZ3UXB6VEZIbXV4ZVZvRzVsTVRpMjVlM3UtQ0lFZEhtenAtVmc?oc=5",
+      "fuente": "La Opinión"
     },
     {
       "titulo": "Meta usa IA para detectar anuncios camino a CSAM - El Ecosistema Startup",
