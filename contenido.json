@@ -1,16 +1,23 @@
 {
-  "actualizado": "2026-10-25 14:41 UTC",
+  "actualizado": "2026-10-26 17:03 UTC",
   "ticker": [
-    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
     "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
-    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
-    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
     "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
     "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
+    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
+    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
     "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
-    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%"
+    "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026"
   ],
   "cifras": [
+    {
+      "num": "IA + Ads",
+      "title": "El negocio de anuncios financia la carrera de IA",
+      "text": "WARC Media describe un 'volante' donde los ingresos publicitarios financian la inversión en IA de Meta, que a su vez mejora el rendimiento de los anuncios y atrae más inversión publicitaria.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
+    },
     {
       "num": "60/40",
       "title": "Facebook factura más, Instagram enamora más",
@@ -26,21 +33,21 @@
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
-      "num": "11.8M",
-      "title": "Millones de marcas compiten por tu atención",
-      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
-      "fuente": "WARC Media / adobo Magazine",
-      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
-    },
-    {
-      "num": "IA + Ads",
-      "title": "El negocio de anuncios financia la carrera de IA",
-      "text": "WARC Media describe un 'volante' donde los ingresos publicitarios financian la inversión en IA de Meta, que a su vez mejora el rendimiento de los anuncios y atrae más inversión publicitaria.",
-      "fuente": "WARC Media / adobo Magazine",
-      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
+      "num": "+33%",
+      "title": "Gana más mostrando el mismo anuncio",
+      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
+      "fuente": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
     }
   ],
   "historia": [
+    {
+      "num": "2004 → hoy",
+      "title": "De banners universitarios a un imperio publicitario",
+      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
+      "fuente": "Historia de Facebook — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+    },
     {
       "num": "44% CTR",
       "title": "El primer banner de la historia tuvo un CTR del 44%",
@@ -56,21 +63,19 @@
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
     {
-      "num": "2007–2009",
-      "title": "Beacon: el experimento que casi hunde la confianza",
-      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
-      "fuente": "Wikipedia — Facebook Beacon",
-      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
-    },
-    {
-      "num": "2004 → hoy",
-      "title": "De banners universitarios a un imperio publicitario",
-      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
       "fuente": "Historia de Facebook — Wikipedia",
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     }
   ],
   "algoritmo": [
+    {
+      "num": "IA generativa",
+      "title": "El algoritmo también genera los anuncios",
+      "text": "Las herramientas de generación de imagen y texto integradas en Meta Ads permiten crear variaciones de un mismo anuncio automáticamente, algo impensado hace pocos años."
+    },
     {
       "num": "Advantage+",
       "title": "La automatización dejó de ser opcional",
@@ -84,20 +89,15 @@
       "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
       "fuente": "Benly",
       "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
-    },
-    {
-      "num": "3–8seg",
-      "title": "El gancho se decide en los primeros segundos",
-      "text": "Bajo el sistema actual, el 'hook rate' —el porcentaje de personas que sigue viendo un video pasados los primeros segundos— es el indicador que más predice si un anuncio en video va a funcionar.",
-      "fuente": "The Interconnections",
-      "url": "https://www.theinterconnections.com/blog/meta-ads-2026"
     }
   ],
   "curiosidades": [
     {
-      "num": "∞ variantes",
-      "title": "Un anuncio nunca se ve igual dos veces",
-      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
+      "num": "4.52x vs 3.70x",
+      "title": "Las campañas automáticas rinden ~22% más",
+      "text": "Las campañas Advantage+ Shopping promedian un ROAS de 4.52x frente a 3.70x de las campañas manuales equivalentes, según benchmarks de la industria en 2026.",
+      "fuente": "AdAmigo",
+      "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
     },
     {
       "num": "$125–145B",
@@ -107,14 +107,19 @@
       "url": "https://www.medianews4u.com/meta-to-earn-240bn-from-advertising-in-2026-outpacing-global-social-media-ad-growth-warc/"
     },
     {
-      "num": "1994",
-      "title": "Todo empezó con un banner de 30.000 dólares",
-      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
+      "num": "∞ variantes",
+      "title": "Un anuncio nunca se ve igual dos veces",
+      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
     }
   ],
   "memes": [
+    {
+      "top": "Día 1 del mes: el CPM despierta",
+      "emoji": "☕",
+      "badge": "PRESUPUESTO",
+      "bottom": "Y decide subir \"porque sí\"",
+      "art": "c"
+    },
     {
       "top": "Meta lanza una actualización sin avisar",
       "emoji": "🌀",
@@ -130,18 +135,11 @@
       "art": "a"
     },
     {
-      "top": "Encuentras el anuncio ganador",
-      "emoji": "🔁",
-      "badge": "DUPLICAR",
-      "bottom": "Lo duplicas 6 veces antes de dormir",
-      "art": "c"
-    },
-    {
-      "top": "Día 1 del mes: el CPM despierta",
-      "emoji": "☕",
-      "badge": "PRESUPUESTO",
-      "bottom": "Y decide subir \"porque sí\"",
-      "art": "c"
+      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
+      "emoji": "🧠",
+      "badge": "FASE DE APRENDIZAJE",
+      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
+      "art": "b"
     },
     {
       "top": "Advantage+ optimizando la campaña",
@@ -151,14 +149,19 @@
       "art": "b"
     },
     {
-      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
-      "emoji": "🧠",
-      "badge": "FASE DE APRENDIZAJE",
-      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
-      "art": "b"
+      "top": "Encuentras el anuncio ganador",
+      "emoji": "🔁",
+      "badge": "DUPLICAR",
+      "bottom": "Lo duplicas 6 veces antes de dormir",
+      "art": "c"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Meta, el imperio de la manipulación: ¿quién puede detenerlo? - El Tiempo",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0FBVDJQLXkxNlZvRFhRQXoyYmx4ZHMwUWloczZYWEdDbmRKQl9QU3N2SWwwVkdCM3VsUlpGNG1WMUJUUExzY3hJRkZqNVJuUC00THJGM0R2SjBNa1FZSXV2eUwtbzNfclpyQWw2ZmxpRXRmbWhDc2RvQjREXzIybzhvcUxnWTFQb0NybTFaYUIzSXNfOHI4TW9zc0s2R3ZkaDBCNUhuRGw1X19zUFZPeWhUQlRKSU1BSm1fVE5R0gHDAUFVX3lxTFBQNVFNVXV6MERHV2tPNmFjME13T0pDSFhNOC03aFU0eU5ZVl81Nlh5UVNWc0NKSWZCb0MtdTNnbUt6ZmpONUllMFVpOUhhWG5tUkgtUDZTSGVOZG56d2N5MkltUlkzcUVIME8zMEtMV19mRllCTHJOYXFaaENSMGEteWtxT0U4X1V2S094eWFSbDJJTXZTaWVGWlJ4WkgtVGx6VjlGX1N1Y0dZcDFzbllWc1NRSmE0MnMwWVlPWldfbi1Jcw?oc=5",
+      "fuente": "El Tiempo"
+    },
     {
       "titulo": "Meta comparte cómo las empresas están utilizando su agente de IA Muse (2026) - ALM Corp",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXNlR1B2RDNCdHk1V2NYY3p5N3ZjMERUaHFFa2xLclNJTFRHYm9fbUhVTGo3SlN3Rjl0VktKYVh4LUs1MEpMQ3JhZXpfeWtGLW1wV25ZRmVzc1JieFZROHg0WXQyemVsVG1HU0RwU29ONzNhTGU4OFR6aWdlUUc4NkJiZ1pQVFBlSUhV?oc=5",
@@ -178,11 +181,6 @@
       "titulo": "A Meta le fue de fábula en el último trimestre (gracias a la confluencia de la IA y la publicidad) - Marketing Directo",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejJWcnVuRkxYekltTlBvSFNGU29tNFFqazhoWkNiUUlVZEZnSW1XSTJVQm5wWFgxSWtLcTBybFhkSGVZWW9lNlZQY3hJOWdLNll0YjQ2dVFPUzg1S2xVS2lzUTF0SGRBYnNNM1NCdUo5dVhHUVVCc2QzVXhoSXlSSjMtdURsdG9aOXhrRnN5VlRRQVMtb1VaS0hhSlFPTUNiZ2J2d1hSSHB2V2ZuaXJwa1lCZ2NfaGJRdW1lcDUwejbSAcYBQVVfeXFMTkFlNVZFRnZoY3NUWEM1S0FIdkZCY29XSHZoMHBpeENPZXpPUHI4VDhRcWoxeXRUN2M0OGpvTXZyMVFKcEJERTZKT3RYV3B2WWM2ME1pQWEyaDZ5TVlmTEFCNjNXamJIU0RGTUhqbWVjOEVLdkpCbnZPNHhlRUk3dGw4aUJLb3JhV0hBSlZlWTQwd05udTNKZnBJMUdXQVpoandTU2tLVXl0MHdtRlRoQWdzZnIySDlGTkxFNlh6R0tlQS1MU2tR?oc=5",
       "fuente": "Marketing Directo"
-    },
-    {
-      "titulo": "Meta Ads para empresas: cómo conseguir clientes de verdad sin quemar tu inversión publicitaria - El Independiente",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUkpYekNhVXo5SnZELTg3MzJiREJtajlrYThQXzEwNUlINl95OGNCbkpId3JtS1g3U0h2dnV1QjhmZFZqbmpzR3ctTElJZkRFV3FNU0ExMTQ0cFBueHBGaTllZ1Q1RzRpZzZIM24tQk9Qa0w5WHZ5TThWV1dzQVZlb01MWS1zczFnVXlhX0ZxRGxlZ213T1lhaHdtRkFTNlJQMzNXb1BVLVZtNVIzYm11R0pqSDMxbndLREJtdE8wTzNtUkJVMjdsdm5UV2dGbHFydnp4My1hWjnSAd4BQVVfeXFMTjF0NVFtZ3Q1UUpRazBLaU82WDB0blhEUDhRU1BRY09zMUF5Q0xmcDQ2dHZEbEJScHpRX1NUenBlVndiWXI3S1BsZ3JQcndDd2UzMzU2b1F1M3Z6c1A5MWxmRVVQdWdfUE9XN2swWnlJaDlrQ09QYmMtZVZJa3RMM25ueDJlcl85S0hHQlFsWW1SamtBN2xKWlNxR2ZEQ3IwVk9rQXV4X1hWV3kwUlhaMmZDdENZd2xOVno4SkdoWDZBR1B0M0QxQlJLTkdrei1UR2dWWUVCOENLQTRfMF9R?oc=5",
-      "fuente": "El Independiente"
     }
   ]
 }
