@@ -1,29 +1,22 @@
 {
-  "actualizado": "2026-11-05 18:23 UTC",
+  "actualizado": "2026-11-06 17:44 UTC",
   "ticker": [
-    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
-    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
+    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
     "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
-    "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
-    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
     "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
     "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
-    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026"
+    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
+    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
+    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007"
   ],
   "cifras": [
     {
-      "num": "+33%",
-      "title": "Gana más mostrando el mismo anuncio",
-      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
-      "fuente": "MediaPost",
-      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
-    },
-    {
-      "num": "3.5B+",
-      "title": "Más de 3.500 millones de personas al día",
-      "text": "Meta reporta más de 3.500 millones de usuarios diarios combinados entre sus aplicaciones: Facebook, Instagram, WhatsApp y Messenger.",
-      "fuente": "MarketingReport",
-      "url": "https://marketingreport.one/news/meta-to-earn-240bn-from-advertising-in-2026.html"
+      "num": "IA + Ads",
+      "title": "El negocio de anuncios financia la carrera de IA",
+      "text": "WARC Media describe un 'volante' donde los ingresos publicitarios financian la inversión en IA de Meta, que a su vez mejora el rendimiento de los anuncios y atrae más inversión publicitaria.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
       "num": "60/40",
@@ -33,27 +26,27 @@
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
-      "num": "IA + Ads",
-      "title": "El negocio de anuncios financia la carrera de IA",
-      "text": "WARC Media describe un 'volante' donde los ingresos publicitarios financian la inversión en IA de Meta, que a su vez mejora el rendimiento de los anuncios y atrae más inversión publicitaria.",
+      "num": "11.8M",
+      "title": "Millones de marcas compiten por tu atención",
+      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
       "fuente": "WARC Media / adobo Magazine",
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
+    },
+    {
+      "num": "+33%",
+      "title": "Gana más mostrando el mismo anuncio",
+      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
+      "fuente": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
     }
   ],
   "historia": [
     {
-      "num": "$5 ≈ 1.000",
-      "title": "Con 5 dólares llegabas a mil personas",
-      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
+      "num": "2004 → hoy",
+      "title": "De banners universitarios a un imperio publicitario",
+      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
       "fuente": "Historia de Facebook — Wikipedia",
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
-    },
-    {
-      "num": "2012",
-      "title": "Nacen los Públicos Personalizados",
-      "text": "En 2012 Facebook lanzó Custom Audiences, la función que permitió a las marcas subir sus propias bases de datos de clientes para encontrarlos en la plataforma.",
-      "fuente": "Jon Loomer Digital",
-      "url": "https://www.jonloomer.com/facebook-ads-custom-audiences-guide/"
     },
     {
       "num": "44% CTR",
@@ -63,14 +56,28 @@
       "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     },
     {
-      "num": "2004 → hoy",
-      "title": "De banners universitarios a un imperio publicitario",
-      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
+      "num": "2007–2009",
+      "title": "Beacon: el experimento que casi hunde la confianza",
+      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
+      "fuente": "Wikipedia — Facebook Beacon",
+      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
+    },
+    {
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
       "fuente": "Historia de Facebook — Wikipedia",
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     }
   ],
   "algoritmo": [
+    {
+      "num": "3–8seg",
+      "title": "El gancho se decide en los primeros segundos",
+      "text": "Bajo el sistema actual, el 'hook rate' —el porcentaje de personas que sigue viendo un video pasados los primeros segundos— es el indicador que más predice si un anuncio en video va a funcionar.",
+      "fuente": "The Interconnections",
+      "url": "https://www.theinterconnections.com/blog/meta-ads-2026"
+    },
     {
       "num": "10.000x",
       "title": "El motor detrás del feed se llama Andromeda",
@@ -84,11 +91,6 @@
       "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta la creatividad de sus campañas a los sistemas automatizados de Meta, en vez de configurarlos manualmente.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
-    },
-    {
-      "num": "IA generativa",
-      "title": "El algoritmo también genera los anuncios",
-      "text": "Las herramientas de generación de imagen y texto integradas en Meta Ads permiten crear variaciones de un mismo anuncio automáticamente, algo impensado hace pocos años."
     }
   ],
   "curiosidades": [
@@ -100,32 +102,25 @@
       "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     },
     {
-      "num": "∞ variantes",
-      "title": "Un anuncio nunca se ve igual dos veces",
-      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
-    },
-    {
       "num": "4.52x vs 3.70x",
       "title": "Las campañas automáticas rinden ~22% más",
       "text": "Las campañas Advantage+ Shopping promedian un ROAS de 4.52x frente a 3.70x de las campañas manuales equivalentes, según benchmarks de la industria en 2026.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
+    },
+    {
+      "num": "∞ variantes",
+      "title": "Un anuncio nunca se ve igual dos veces",
+      "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
     }
   ],
   "memes": [
     {
-      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
-      "emoji": "🧠",
-      "badge": "FASE DE APRENDIZAJE",
-      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
-      "art": "b"
-    },
-    {
-      "top": "Advantage+ optimizando la campaña",
-      "emoji": "🤖",
-      "badge": "AUTO-PILOTO",
-      "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
-      "art": "b"
+      "top": "Día 1 del mes: el CPM despierta",
+      "emoji": "☕",
+      "badge": "PRESUPUESTO",
+      "bottom": "Y decide subir \"porque sí\"",
+      "art": "c"
     },
     {
       "top": "Meta lanza una actualización sin avisar",
@@ -135,13 +130,6 @@
       "art": "a"
     },
     {
-      "top": "Día 1 del mes: el CPM despierta",
-      "emoji": "☕",
-      "badge": "PRESUPUESTO",
-      "bottom": "Y decide subir \"porque sí\"",
-      "art": "c"
-    },
-    {
       "top": "Encuentras el anuncio ganador",
       "emoji": "🔁",
       "badge": "DUPLICAR",
@@ -149,11 +137,25 @@
       "art": "c"
     },
     {
+      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
+      "emoji": "🧠",
+      "badge": "FASE DE APRENDIZAJE",
+      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
+      "art": "b"
+    },
+    {
       "top": "Yo subiendo el presupuesto $10 al día",
       "emoji": "📈",
       "badge": "CPM +37%",
       "bottom": "El CPM: \"gracias por el aumento\"",
       "art": "a"
+    },
+    {
+      "top": "Advantage+ optimizando la campaña",
+      "emoji": "🤖",
+      "badge": "AUTO-PILOTO",
+      "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
+      "art": "b"
     }
   ],
   "noticias": [
@@ -163,24 +165,24 @@
       "fuente": "Universidad Autónoma de Occidente"
     },
     {
+      "titulo": "Premios Jerry: Google Argentina, Mercado Ads, Meta, PedidosYa y TikTok son los nominados en Plataforma de AdTech - DossierNet",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTzJCX3h6eGVwbGhVUk1aenF1OUhhNTBXVjVHa0lUOUxzTWtrRUFldU5jRzFmREFiZXFPVExwaFF4TFN3QkFIT2hHWUktdzFvZmVfdEdINXRTMTJlWF9yOFY1V1dTZjd1SEpQUno4d2liOFpkd203d2RVNHN0TXd6Q1dmcGh4aHdPZkVnTXI3Q3hXalY0Q2tQaVVsUUtVTW1PRmNxOUV3Q21CQWUtYlVjN2JienAxdVdRNWJ4VlRuWkhzQWk4Y0FjYU94bm9aZnd0NkpKMi1zOUl5REpPNklFNlY5OA?oc=5",
+      "fuente": "DossierNet"
+    },
+    {
+      "titulo": "Mark Cuban: Meta aloja deepfakes y proyecta US$16.000M - El Ecosistema Startup",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxpRU9tRm9YNnVOVVczcE1mdmxjeWtiV0pCNlZhSXVSTWJIWnRUTGRSS1lWWXBTVU82dWRvZ3NIQjVKYkc5SDJaUFZPQWx2WDlrajI4cVF1QU1DcXdheDJtenc4M1ZjR3hRV19WdHRwWDgzdlJVNlZycC1RcGVULU1Ma2VpTDJ6Zm80?oc=5",
+      "fuente": "El Ecosistema Startup"
+    },
+    {
       "titulo": "Edu Huarte, experto en Meta Ads, alerta del error que hace perder dinero a muchas empresas - The Objective",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUgySERHckxNQ0w5dHpHdWdNbGc1QzdSYUZFZm9JN2tHazNTazU5c1hROVNtbDJydVk3bjRvdG9maXZQTElEWWpONGdpMGhsZDlTY05rNjY1enZfd2Y4Wmt3enJESy02eFg0Rkd2LW9sNFhrWmw2Sjk3Ny1lbXZDbVpQTzFhWkRrR09iczVXQmdad9IBlwFBVV95cUxOSWc4WllJYzBNX3lxQWFpMG56RXlLRWJHUGJnTnE5TTB5MVY3dTRvRThSX2lVSFFrVmZMR1RWc3hISHVOMDFsbHNDSzE2VW5YWFJKZEYxdFY5YVA1NzNKcm1RcmozRXR1cGpCRXZZSktmLTRrTGt6SFEyNXBJLVFtR3czTEotVnFxRk1UZ1pfM3ZCOGR1SUZZ?oc=5",
       "fuente": "The Objective"
     },
     {
-      "titulo": "Meta acelera en publicidad con IA mientras Google enfrenta dudas sobre su buscador - DiarioBitcoin",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMDQ2d1ZnQlVIZGlicUE2S2lWSWRWaGZySVZWYlNWUE9WeFIzV2hrNFp0VjBOR1diWHNkREh4ZFprRzFXaFV0UjdZd1Y3VFo3aEsyd2hZd2FpbElIWF9VenBMVjNUV3dHZTdsdnJVN3NvRGdCVUcyLUlUZW9uTnBhQ2V4MG5ZbjFuWHVRaV9pVVVHTEtBdkpBNmxTek00ZmZpUlhBUGFWWF9GR280NTk1dFRLbEp6WW04YUlvM01fSjN4QQ?oc=5",
-      "fuente": "DiarioBitcoin"
-    },
-    {
-      "titulo": "El servidor MCP de anuncios de Meta llega a Databricks: aproveche la inteligencia de clientes en sus campañas publicitarias - Databricks",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VclYySmpPOHdkYUM0bnFpYVV5SEZLdENhR3BuYlpDQU5OZEIyQlF2a1JicGlZVm5EeHkxb0lfRi0xNV9oV292SVUzYnpLbDFLNmpoYV9WdFpSRWI4ck5LdXJKb0Z4ZHNURmc?oc=5",
-      "fuente": "Databricks"
-    },
-    {
-      "titulo": "El experto en Meta Ads Edu Huarte desmonta uno de los grandes mitos de la publicidad online: invertir más no garantiza mejores resultados - Crónica Global",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlNoN2RoSl8tY0hOclU1S280ZTZpTWFCMW5JZGdNN0xNZmQyX3RMc1ZERnE1eDQ0Z1FtN1FFYW5Kdm11LUtoYlRjMW4xLTV3ZUYtek5kX2pjM084ZERzTnpuZlJWZG8zMERUUEI5MDdSc2tScW9jcmFVSFp1VDZoemt1WFptcU9tckNveDJ0VEJMLUVGbEN2bEwxY0VJZzJSblp2UDlqam16MGlReGNUOTVlN0tSNW1ybDlZTjltcVVBTlRneV9PeWd30gHPAUFVX3lxTE5NSFdxNENHd0NKeW1jakszemJLMXVtZ3Nqb1ZHOC1Rd0htVEE2cGhlSXhJZkxwcEtBMkh1bmIxamw0QlVKRmZXVWJfcWYzc0RoQUlLcXE1UHZSeHc1OWdsbWsxdTV5YVhOUDBVN2ZOM0x6SHd2a2MzanZnemlLaWt3YnRSQ1BxUXducTNSYWRUcDFPY2Vad1laaWxHcWVVR202eGN5YnZoYUpBQkhJTUpBa0xTd3RwcHdOeWZ3UGU4NUF0cXFNOUF0UTBvNDdjNA?oc=5",
-      "fuente": "Crónica Global"
+      "titulo": "Meta Ads para empresas: cómo conseguir clientes de verdad sin quemar tu inversión publicitaria - El Independiente",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUkpYekNhVXo5SnZELTg3MzJiREJtajlrYThQXzEwNUlINl95OGNCbkpId3JtS1g3U0h2dnV1QjhmZFZqbmpzR3ctTElJZkRFV3FNU0ExMTQ0cFBueHBGaTllZ1Q1RzRpZzZIM24tQk9Qa0w5WHZ5TThWV1dzQVZlb01MWS1zczFnVXlhX0ZxRGxlZ213T1lhaHdtRkFTNlJQMzNXb1BVLVZtNVIzYm11R0pqSDMxbndLREJtdE8wTzNtUkJVMjdsdm5UV2dGbHFydnp4My1hWjnSAd4BQVVfeXFMTjF0NVFtZ3Q1UUpRazBLaU82WDB0blhEUDhRU1BRY09zMUF5Q0xmcDQ2dHZEbEJScHpRX1NUenBlVndiWXI3S1BsZ3JQcndDd2UzMzU2b1F1M3Z6c1A5MWxmRVVQdWdfUE9XN2swWnlJaDlrQ09QYmMtZVZJa3RMM25ueDJlcl85S0hHQlFsWW1SamtBN2xKWlNxR2ZEQ3IwVk9rQXV4X1hWV3kwUlhaMmZDdENZd2xOVno4SkdoWDZBR1B0M0QxQlJLTkdrei1UR2dWWUVCOENLQTRfMF9R?oc=5",
+      "fuente": "El Independiente"
     }
   ]
 }
