@@ -1,23 +1,16 @@
 {
-  "actualizado": "2026-11-08 16:51 UTC",
+  "actualizado": "2026-11-09 21:12 UTC",
   "ticker": [
-    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
-    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
-    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
     "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
-    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
-    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
+    "Más de <b>3.500M</b> de personas usan una app de Meta cada día",
     "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
-    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026"
+    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
+    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
+    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
+    "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
+    "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA"
   ],
   "cifras": [
-    {
-      "num": "3.5B+",
-      "title": "Más de 3.500 millones de personas al día",
-      "text": "Meta reporta más de 3.500 millones de usuarios diarios combinados entre sus aplicaciones: Facebook, Instagram, WhatsApp y Messenger.",
-      "fuente": "MarketingReport",
-      "url": "https://marketingreport.one/news/meta-to-earn-240bn-from-advertising-in-2026.html"
-    },
     {
       "num": "11.8M",
       "title": "Millones de marcas compiten por tu atención",
@@ -33,6 +26,13 @@
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
+      "num": "IA + Ads",
+      "title": "El negocio de anuncios financia la carrera de IA",
+      "text": "WARC Media describe un 'volante' donde los ingresos publicitarios financian la inversión en IA de Meta, que a su vez mejora el rendimiento de los anuncios y atrae más inversión publicitaria.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
+    },
+    {
       "num": "60/40",
       "title": "Facebook factura más, Instagram enamora más",
       "text": "Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante, según WARC Media.",
@@ -41,13 +41,6 @@
     }
   ],
   "historia": [
-    {
-      "num": "2012",
-      "title": "Nacen los Públicos Personalizados",
-      "text": "En 2012 Facebook lanzó Custom Audiences, la función que permitió a las marcas subir sus propias bases de datos de clientes para encontrarlos en la plataforma.",
-      "fuente": "Jon Loomer Digital",
-      "url": "https://www.jonloomer.com/facebook-ads-custom-audiences-guide/"
-    },
     {
       "num": "2007–2009",
       "title": "Beacon: el experimento que casi hunde la confianza",
@@ -63,6 +56,13 @@
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
     {
+      "num": "2004 → hoy",
+      "title": "De banners universitarios a un imperio publicitario",
+      "text": "Lo que empezó como anuncios locales para estudiantes de Harvard se convirtió, dos décadas después, en uno de los negocios publicitarios más grandes del mundo.",
+      "fuente": "Historia de Facebook — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+    },
+    {
       "num": "44% CTR",
       "title": "El primer banner de la historia tuvo un CTR del 44%",
       "text": "En 1994, AT&T pagó 30.000 dólares por el primer banner clicable de internet, publicado en HotWired.com. Obtuvo un 44% de clics — una cifra hoy prácticamente imposible.",
@@ -72,9 +72,18 @@
   ],
   "algoritmo": [
     {
-      "num": "IA generativa",
-      "title": "El algoritmo también genera los anuncios",
-      "text": "Las herramientas de generación de imagen y texto integradas en Meta Ads permiten crear variaciones de un mismo anuncio automáticamente, algo impensado hace pocos años."
+      "num": "25/semana",
+      "title": "El umbral de conversiones bajó en 2026",
+      "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
+      "fuente": "Benly",
+      "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
+    },
+    {
+      "num": "Advantage+",
+      "title": "La automatización dejó de ser opcional",
+      "text": "Cada vez más anunciantes delegan la segmentación, el presupuesto y hasta la creatividad de sus campañas a los sistemas automatizados de Meta, en vez de configurarlos manualmente.",
+      "fuente": "AdAmigo",
+      "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
     },
     {
       "num": "3–8seg",
@@ -82,13 +91,6 @@
       "text": "Bajo el sistema actual, el 'hook rate' —el porcentaje de personas que sigue viendo un video pasados los primeros segundos— es el indicador que más predice si un anuncio en video va a funcionar.",
       "fuente": "The Interconnections",
       "url": "https://www.theinterconnections.com/blog/meta-ads-2026"
-    },
-    {
-      "num": "25/semana",
-      "title": "El umbral de conversiones bajó en 2026",
-      "text": "Las actualizaciones de Advantage+ en 2026 redujeron el mínimo de eventos de conversión semanales necesarios de 50 a 25, haciendo que las campañas con IA sean accesibles para cuentas más pequeñas.",
-      "fuente": "Benly",
-      "url": "https://benly.ai/learn/meta-ads/advantage-plus-updates-2026"
     }
   ],
   "curiosidades": [
@@ -114,13 +116,6 @@
   ],
   "memes": [
     {
-      "top": "Advantage+ optimizando la campaña",
-      "emoji": "🤖",
-      "badge": "AUTO-PILOTO",
-      "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
-      "art": "b"
-    },
-    {
       "top": "Encuentras el anuncio ganador",
       "emoji": "🔁",
       "badge": "DUPLICAR",
@@ -133,6 +128,13 @@
       "badge": "CPM +37%",
       "bottom": "El CPM: \"gracias por el aumento\"",
       "art": "a"
+    },
+    {
+      "top": "Día 1 del mes: el CPM despierta",
+      "emoji": "☕",
+      "badge": "PRESUPUESTO",
+      "bottom": "Y decide subir \"porque sí\"",
+      "art": "c"
     },
     {
       "top": "Meta lanza una actualización sin avisar",
@@ -149,11 +151,11 @@
       "art": "b"
     },
     {
-      "top": "Día 1 del mes: el CPM despierta",
-      "emoji": "☕",
-      "badge": "PRESUPUESTO",
-      "bottom": "Y decide subir \"porque sí\"",
-      "art": "c"
+      "top": "Advantage+ optimizando la campaña",
+      "emoji": "🤖",
+      "badge": "AUTO-PILOTO",
+      "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
+      "art": "b"
     }
   ],
   "noticias": [
@@ -163,14 +165,14 @@
       "fuente": "Universidad Autónoma de Occidente"
     },
     {
+      "titulo": "Demanda contra Meta: alegan que hizo miles de millones de dólares con anuncios fraudulentos - Forbes Argentina",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmlvYjBOM2Jac2J6NHh4Zk1DMFBjN05wcXlBWHlQYThseWt4VWVsR2s1elZiZXRxNUtid0ZEU0lkQ1JlTlF5Z3FlY2diTTZzR0wyU0dTVTBMQXF5RTNSZmV6ektJWmQxcFJuNkpROUNiM2hQRHlDbEhEcy1zdWJ3YWlqWnFsRmplVGM3MlNVNFpQMlZZMTdTM2xWYWw0a0EwOVluWTRwTmtUUXFvQkVRUXp0eXNnNGlmZGfSAb8BQVVfeXFMTjNxWnEtVlRZWEFOaDZlWkhmVjliMk1kdC13QTNka3BEbWJMQVozTHhkS3VPSThkUWZDNHNzS2dCN3EyY29QeWlSSmRYVXhnRktINWg4NmFBZlhuV1lGYzVPUzdjRkZpMDFpYnZPMnVEeEQzaW5JbzNXcG5VNi1JSm5QVERXV1cycWFXZGZCOGlsMUhRakpNcTg3N2NsSlVsX282bndZUTEtMlBMdHFOdzB5Z3IzNmtyd3o1czQtVWc?oc=5",
+      "fuente": "Forbes Argentina"
+    },
+    {
       "titulo": "Premios Jerry: Google Argentina, Mercado Ads, Meta, PedidosYa y TikTok son los nominados en Plataforma de AdTech - DossierNet",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTzJCX3h6eGVwbGhVUk1aenF1OUhhNTBXVjVHa0lUOUxzTWtrRUFldU5jRzFmREFiZXFPVExwaFF4TFN3QkFIT2hHWUktdzFvZmVfdEdINXRTMTJlWF9yOFY1V1dTZjd1SEpQUno4d2liOFpkd203d2RVNHN0TXd6Q1dmcGh4aHdPZkVnTXI3Q3hXalY0Q2tQaVVsUUtVTW1PRmNxOUV3Q21CQWUtYlVjN2JienAxdVdRNWJ4VlRuWkhzQWk4Y0FjYU94bm9aZnd0NkpKMi1zOUl5REpPNklFNlY5OA?oc=5",
       "fuente": "DossierNet"
-    },
-    {
-      "titulo": "Pinterest sobrevive y gana dinero: así crecen sus ingresos por publicidad frente a Meta - Merca2.es",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0ZuZlhrTUtEZ05LZE1WbTY3U3NtbGhrVk9KeFBLTENlVUYyN0JqOWV2Yms3Z0Qtc2VXWW9KcTkyNDBsZ2hOVTdvczRhaXFBVUlSWVNGWkl3Zjdjb1NSSWhDOTdRSjVoMUNSYUJoUkNOYy1zN2pIbmtEaE1SWlg0b1BIRkVKbUE?oc=5",
-      "fuente": "Merca2.es"
     },
     {
       "titulo": "Edu Huarte, experto en Meta Ads, alerta del error que hace perder dinero a muchas empresas - The Objective",
@@ -178,9 +180,9 @@
       "fuente": "The Objective"
     },
     {
-      "titulo": "El servidor MCP de anuncios de Meta llega a Databricks: aproveche la inteligencia de clientes en sus campañas publicitarias - Databricks",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VclYySmpPOHdkYUM0bnFpYVV5SEZLdENhR3BuYlpDQU5OZEIyQlF2a1JicGlZVm5EeHkxb0lfRi0xNV9oV292SVUzYnpLbDFLNmpoYV9WdFpSRWI4ck5LdXJKb0Z4ZHNURmc?oc=5",
-      "fuente": "Databricks"
+      "titulo": "Meta Ads para empresas: cómo conseguir clientes de verdad sin quemar tu inversión publicitaria - El Independiente",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUkpYekNhVXo5SnZELTg3MzJiREJtajlrYThQXzEwNUlINl95OGNCbkpId3JtS1g3U0h2dnV1QjhmZFZqbmpzR3ctTElJZkRFV3FNU0ExMTQ0cFBueHBGaTllZ1Q1RzRpZzZIM24tQk9Qa0w5WHZ5TThWV1dzQVZlb01MWS1zczFnVXlhX0ZxRGxlZ213T1lhaHdtRkFTNlJQMzNXb1BVLVZtNVIzYm11R0pqSDMxbndLREJtdE8wTzNtUkJVMjdsdm5UV2dGbHFydnp4My1hWjnSAd4BQVVfeXFMTjF0NVFtZ3Q1UUpRazBLaU82WDB0blhEUDhRU1BRY09zMUF5Q0xmcDQ2dHZEbEJScHpRX1NUenBlVndiWXI3S1BsZ3JQcndDd2UzMzU2b1F1M3Z6c1A5MWxmRVVQdWdfUE9XN2swWnlJaDlrQ09QYmMtZVZJa3RMM25ueDJlcl85S0hHQlFsWW1SamtBN2xKWlNxR2ZEQ3IwVk9rQXV4X1hWV3kwUlhaMmZDdENZd2xOVno4SkdoWDZBR1B0M0QxQlJLTkdrei1UR2dWWUVCOENLQTRfMF9R?oc=5",
+      "fuente": "El Independiente"
     }
   ]
 }
