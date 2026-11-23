@@ -1,29 +1,22 @@
 {
-  "actualizado": "2026-11-22 18:08 UTC",
+  "actualizado": "2026-11-23 22:18 UTC",
   "ticker": [
-    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
-    "En 2012 nacieron los Públicos Personalizados en Facebook Ads",
-    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
     "Meta invierte hasta <b>$145.000M</b> en infraestructura de IA",
-    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
     "Con <b>$5</b> alcanzabas 1.000 personas en el Facebook de 2007",
-    "Meta proyecta <b>$240.000M</b> en ingresos publicitarios para 2026",
-    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad"
+    "El umbral de conversiones de Advantage+ bajó de 50 a <b>25 por semana</b> en 2026",
+    "Andromeda, el motor de anuncios de Meta, tiene <b>10.000x</b> más capacidad",
+    "El primer banner de internet (1994) tuvo un <b>44% de clics</b>",
+    "Advantage+ Shopping promedia <b>22% más ROAS</b> que las campañas manuales",
+    "Facebook representa el <b>60%</b> de los ingresos de Meta, Instagram el 40%",
+    "Más de <b>3.500M</b> de personas usan una app de Meta cada día"
   ],
   "cifras": [
     {
-      "num": "3.5B+",
-      "title": "Más de 3.500 millones de personas al día",
-      "text": "Meta reporta más de 3.500 millones de usuarios diarios combinados entre sus aplicaciones: Facebook, Instagram, WhatsApp y Messenger.",
-      "fuente": "MarketingReport",
-      "url": "https://marketingreport.one/news/meta-to-earn-240bn-from-advertising-in-2026.html"
-    },
-    {
-      "num": "+33%",
-      "title": "Gana más mostrando el mismo anuncio",
-      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
-      "fuente": "MediaPost",
-      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
+      "num": "11.8M",
+      "title": "Millones de marcas compiten por tu atención",
+      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
+      "fuente": "WARC Media / adobo Magazine",
+      "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
       "num": "IA + Ads",
@@ -33,27 +26,27 @@
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     },
     {
-      "num": "11.8M",
-      "title": "Millones de marcas compiten por tu atención",
-      "text": "Estimaciones de la industria sitúan en varios millones el número de anunciantes activos que hoy pujan dentro del ecosistema publicitario de Meta.",
+      "num": "+33%",
+      "title": "Gana más mostrando el mismo anuncio",
+      "text": "En el primer trimestre de 2026 las impresiones publicitarias subieron 19% y, al mismo tiempo, el precio promedio por anuncio otro 12%: más volumen y más valor, a la vez.",
+      "fuente": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/415064/meta-expected-to-boost-advertising-by-22-in-2026.html"
+    },
+    {
+      "num": "60/40",
+      "title": "Facebook factura más, Instagram enamora más",
+      "text": "Facebook concentra cerca del 60% de los ingresos publicitarios de Meta e Instagram el 40% restante, según WARC Media.",
       "fuente": "WARC Media / adobo Magazine",
       "url": "https://www.adobomagazine.com/insight/metas-ai-advertising-surge-set-to-hit-240-billion-in-2026-says-warc/"
     }
   ],
   "historia": [
     {
-      "num": "2012",
-      "title": "Nacen los Públicos Personalizados",
-      "text": "En 2012 Facebook lanzó Custom Audiences, la función que permitió a las marcas subir sus propias bases de datos de clientes para encontrarlos en la plataforma.",
-      "fuente": "Jon Loomer Digital",
-      "url": "https://www.jonloomer.com/facebook-ads-custom-audiences-guide/"
-    },
-    {
-      "num": "$5 ≈ 1.000",
-      "title": "Con 5 dólares llegabas a mil personas",
-      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
-      "fuente": "Historia de Facebook — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+      "num": "2007–2009",
+      "title": "Beacon: el experimento que casi hunde la confianza",
+      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
+      "fuente": "Wikipedia — Facebook Beacon",
+      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
     },
     {
       "num": "2004 → hoy",
@@ -63,11 +56,18 @@
       "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
     },
     {
-      "num": "2007–2009",
-      "title": "Beacon: el experimento que casi hunde la confianza",
-      "text": "En 2007 Facebook lanzó Beacon, un sistema que publicaba automáticamente las compras de los usuarios como anuncios frente a sus amigos. Cerró en 2009 tras una demanda colectiva por privacidad.",
-      "fuente": "Wikipedia — Facebook Beacon",
-      "url": "https://en.wikipedia.org/wiki/Facebook_Beacon"
+      "num": "$5 ≈ 1.000",
+      "title": "Con 5 dólares llegabas a mil personas",
+      "text": "Cuando Facebook Ads se abrió al público en 2007, un presupuesto mínimo de apenas 5 dólares ya alcanzaba a cerca de 1.000 personas.",
+      "fuente": "Historia de Facebook — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+    },
+    {
+      "num": "44% CTR",
+      "title": "El primer banner de la historia tuvo un CTR del 44%",
+      "text": "En 1994, AT&T pagó 30.000 dólares por el primer banner clicable de internet, publicado en HotWired.com. Obtuvo un 44% de clics — una cifra hoy prácticamente imposible.",
+      "fuente": "Digiday",
+      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     }
   ],
   "algoritmo": [
@@ -98,34 +98,27 @@
       "text": "El mismo anuncio puede mostrarse con textos, imágenes o llamados a la acción distintos a cada persona, combinados automáticamente por el sistema para maximizar resultados."
     },
     {
-      "num": "1994",
-      "title": "Todo empezó con un banner de 30.000 dólares",
-      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
-      "fuente": "Digiday",
-      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
-    },
-    {
       "num": "4.52x vs 3.70x",
       "title": "Las campañas automáticas rinden ~22% más",
       "text": "Las campañas Advantage+ Shopping promedian un ROAS de 4.52x frente a 3.70x de las campañas manuales equivalentes, según benchmarks de la industria en 2026.",
       "fuente": "AdAmigo",
       "url": "https://www.adamigo.ai/blog/meta-ads-roas-benchmarks-by-industry-2026"
+    },
+    {
+      "num": "1994",
+      "title": "Todo empezó con un banner de 30.000 dólares",
+      "text": "El primer banner publicitario de internet se publicó el 27 de octubre de 1994 en HotWired.com — tres años antes de que naciera el concepto moderno de red social.",
+      "fuente": "Digiday",
+      "url": "https://digiday.com/marketing/how-the-banner-ad-was-born/"
     }
   ],
   "memes": [
     {
-      "top": "Advantage+ optimizando la campaña",
-      "emoji": "🤖",
-      "badge": "AUTO-PILOTO",
-      "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
-      "art": "b"
-    },
-    {
-      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
-      "emoji": "🧠",
-      "badge": "FASE DE APRENDIZAJE",
-      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
-      "art": "b"
+      "top": "Encuentras el anuncio ganador",
+      "emoji": "🔁",
+      "badge": "DUPLICAR",
+      "bottom": "Lo duplicas 6 veces antes de dormir",
+      "art": "c"
     },
     {
       "top": "Día 1 del mes: el CPM despierta",
@@ -135,11 +128,11 @@
       "art": "c"
     },
     {
-      "top": "Encuentras el anuncio ganador",
-      "emoji": "🔁",
-      "badge": "DUPLICAR",
-      "bottom": "Lo duplicas 6 veces antes de dormir",
-      "art": "c"
+      "top": "El cliente: \"¿por qué el anuncio no vende?\"",
+      "emoji": "🧠",
+      "badge": "FASE DE APRENDIZAJE",
+      "bottom": "Yo: \"el algoritmo todavía está aprendiendo\"",
+      "art": "b"
     },
     {
       "top": "Meta lanza una actualización sin avisar",
@@ -147,6 +140,13 @@
       "badge": "LUNES 8:00 AM",
       "bottom": "Todo el equipo de Ads, a la vez",
       "art": "a"
+    },
+    {
+      "top": "Advantage+ optimizando la campaña",
+      "emoji": "🤖",
+      "badge": "AUTO-PILOTO",
+      "bottom": "Yo, sin tocar nada, mirando el ROAS subir",
+      "art": "b"
     },
     {
       "top": "Yo subiendo el presupuesto $10 al día",
@@ -168,19 +168,19 @@
       "fuente": "Universidad Autónoma de Occidente"
     },
     {
-      "titulo": "Instagram Ads: cómo hacer anuncios desde cero - Metricool",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94RUxPRVFrX1pUamp4Q001NmpHWDB4SWVZQm81Nnp4UzNOdjVRcjdPSE1JUnZwWk13RVlFUElpbHFQYWFjTFlKN05OdDVzTDZkc1p3WDlOUE8yX19K?oc=5",
-      "fuente": "Metricool"
-    },
-    {
       "titulo": "El servidor MCP de anuncios de Meta llega a Databricks: aproveche la inteligencia de clientes en sus campañas publicitarias - Databricks",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VclYySmpPOHdkYUM0bnFpYVV5SEZLdENhR3BuYlpDQU5OZEIyQlF2a1JicGlZVm5EeHkxb0lfRi0xNV9oV292SVUzYnpLbDFLNmpoYV9WdFpSRWI4ck5LdXJKb0Z4ZHNURmc?oc=5",
       "fuente": "Databricks"
     },
     {
-      "titulo": "El nuevo Meta Muse Charm apunta a diciembre: una IA de bolsillo con pantalla y conexión 5G - Cinco Días",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYnR1VkFvWWFYMmxkN2doeGRfODQwMXdBbkxWM1R4R2F3ODRwTE5jNHhxOFVwbG1ZekJTYllZcXVqOUJjRHFNYmc2QTZ1cHlWUTZrN2JmTldRUWxpNThPMlNrbW4xazc5SmE5QzhQd0xzYXlxSlFSVG1FbVhWTjF2X3J2d2g4Ym5zNFpVR01IcWdVVlV0b0NkLWJjWmxUaHJQQTVuWEliQVpSb2xHTm1TM0VXYzcxUnRxRXJjTmFjLW1OOVhhdWZWRVAxekRMTk03eG5xVGJkb29IUWV3U0s2cUstdlhuSWPSAfsBQVVfeXFMTVFrTmdleG9EZ2lLZXB1OHd4a3JIclhkWFJtcGtpcVpSRnZUTmx5dFdVMlRMbnJ6Q0p0aV9TMlZHeXk3ZUE5YTFZMzdrTHpWdFluWEc1VXBnQTIwQVYwSFFSNVFhQWdrVnp4TmRPN1U1bktuZm5jVERpQTRiRXVKUHBfTk5UU2xRdk1QT1MyV2g3eXFzZGo0YVdIVDRfc3Bwc2Iwc1F4ZjF0MWFBX2ZQaEFUX3lGUlJpWkZkTWZ2V1RVbHRUMDZ3QnF6aDg0eTRHWFBHTXZ3U1Y4N2tBUjU3RTdHSFhKRW8xSUVIbTJuWjlDSFZjRzdIWF8zeHM?oc=5",
-      "fuente": "Cinco Días"
+      "titulo": "Meta revela las 5 tendencias que transformarán el marketing en 2027: así cambiará la publicidad - Revista Merca2.0",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUng1S21xcEVYOU5KRWU2QWppUzNyY0FxUnhHVm9VR2RqeFVlUm1ob0ZKZDlJUGlHd0Y0UE1wZGVOeGwtMDhrVXZqdUJOOXdySE1XVVBYUmx6WUJFRk5GTEdKVnBkejRHVUNnTzlCakVHM0wyNTl2SUw5VzYwVk9vUGFtZmZqX2pTejlsakRqWkkxZmtITGZRdDYwWWZHTzh1RE8wa3VmSlhud2ktQU1IUlBySXc2dERZSnJ3?oc=5",
+      "fuente": "Revista Merca2.0"
+    },
+    {
+      "titulo": "Instagram Ads: cómo hacer anuncios desde cero - Metricool",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94RUxPRVFrX1pUamp4Q001NmpHWDB4SWVZQm81Nnp4UzNOdjVRcjdPSE1JUnZwWk13RVlFUElpbHFQYWFjTFlKN05OdDVzTDZkc1p3WDlOUE8yX19K?oc=5",
+      "fuente": "Metricool"
     }
   ]
 }
